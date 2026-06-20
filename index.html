@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Конфигуратор ПК</title>
+    <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+
+    <header>
+        <h1>Собери свой ПК</h1>
+        <p style="font-size:14px;opacity:0.8;margin-top:5px;">Выберите компоненты — система проверит совместимость и выдаст ссылки на их покупку</p>
+    </header>
+
+    <main>
+        <section class="catalog">
+            <div class="categories">
+                <button data-category="processors">Процессор</button>
+                <button data-category="motherboards">Материнская плата</button>
+                <button data-category="videocards">Видеокарта</button>
+                <button data-category="ram">ОЗУ</button>
+                <button data-category="storage">SSD</button>
+                <button data-category="psu">Блок питания</button>
+                <button data-category="cases">Корпус</button>
+                <button data-category="cooling">Охлаждение</button>
+            </div>
+
+            <div class="cards-container" id="cardsContainer">
+                <p style="text-align:center;padding:40px;color:#888;">Загрузка компонентов...</p>
+            </div>
+        </section>
+
+        <aside class="build">
+            <h2>Ваша сборка</h2>
+            <div id="buildList">
+                <p style="color:#888;text-align:center;padding:20px 0;">Компоненты не выбраны</p>
+            </div>
+            <div class="build-total">
+                <p> Итого:~ <span id="totalPrice">0</span> ₽</p>
+                <button id="showLinksBtn"> Перейти к ссылкам на товары</button>
+            </div>
+            <button id="resetBuild">Сбросить сборку</button>
+        </aside>
+    </main>
+
+    <div id="warningModal" style="display: none;">
+        <div class="modal-overlay">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modalTitle"> Внимание!</h2>
+                </div>
+                <div class="modal-body" id="modalBody"></div>
+                <div class="modal-footer" id="modalFooter">
+                    <button class="modal-btn modal-btn-cancel" id="modalCancel">Отмена</button>
+                    <button class="modal-btn modal-btn-confirm" id="modalConfirm">Продолжить</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

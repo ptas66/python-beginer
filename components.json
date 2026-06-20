@@ -1,0 +1,591 @@
+{
+  "processors": [
+    {
+      "id": "cpu_1",
+      "model": "Intel Core i5-13600K",
+      "brand": "Intel",
+      "socket": "LGA1700",
+      "tdp": 125,
+      "price": 23000,
+      "link": "https://market.yandex.ru/card/protsessor-intel-core-i5-13600k-lga-1700-oem-cm8071504821005-srmbd/103199745970?do-waremd5=igel4KUw3uHDRR4H25lSuQ&sponsored=1&cpc=XR85Eyg2tmhYnhLOO_w6rftffETQBk6615fh7VK2hDsBw74dq6rE3fkYyIjl8RNryd172Nbr2GZHtx_EyCp9rzBCaFU1ngbVKLKk_kh9Yu2VnkINb4jACspji2prncI2W9Mt2sTzr68wmnpPpwvzaQdXmgM4KT6jUaomUiKpGK4C1RlElUyTj3PPKRS8Z3XYToeYPBvJOxR3iKyVzT3CVJV1TeMgjqB5oKiTwnHKRjfZfNo8qzXAuw84jQC3zy3kUj2tu9T3s08Iw69DqM7Ns9q56e4ATrCsiZ4NTWqD1NyGcZazDCmBACkvZFF-GHOALq-ByvZt4jJkdNjlqcvmF_Y2KSs4GgoShyW5smdWD9v1XXmvG90XoOKwwxK0_OooBhOSsliUZB6HBbzbTCrf_apDfEkCX-MDT4Vs0DoPIC_YREuETxiFy_VvsOMBjuzwUbM2kDhYfQpawM3vx0ZeXBHE_hyDZFL138BT8gwCrU6vKOk6yOqmDb-wmz8HZAT-sDOuItEiiJkwZe0mFubE2DlNYb3BdHaNhjdDBHGCnu8reEK04kDEoSVHHZSTcDwmJn_X7Qnnmw4%2C&nid=26912730&ogV=-12"
+    },
+    {
+      "id": "cpu_2",
+      "model": "Intel Core i7-13700K",
+      "brand": "Intel",
+      "socket": "LGA1700",
+      "tdp": 125,
+      "price": 36000,
+      "link": "https://market.yandex.ru/card/protsessor-intel-core-i7-13700k-oem-cm8071504820705/103192978204?do-waremd5=a9IBQrDACXWhhMqTFi6guQ&sponsored=1&cpc=z4CYpbNGGysVh0d_9WfViv0T1eqDWXBUvZKauXcmL4hk3WbPao2tR4hKaazPzEHUwJ45z_B-YZzWJOREpp6yELkqqU9olsy9sju99hZYKtOjRmEcmcPDRuGfO4iG6aYxfZtSnlSpDnbVEeKSgnXWiQ9eJ74T2oKTEVF56dy3XdUVJuWtFmnU9bfhts88dQBHl9M-Tl7MXVE8MgNoruhEeTplqIggSfs-bQCsJIzKekw6lj9JOD08HlcLHYP_jBA1NRtu1tYdvkamvT1ihgXc-RTNmL5AEspidE8x5e7MxHsLDAQpBreZwed4n-hXYrtecy2Q1yNUZtKsFC1fBWBBrGkTtRho0Xhwg1q99XGyXh_vs3-kaL0xvh8W1oKH6_FgSVDXCi9aN4Q8bfE1htuobsWnPT3DvNJ2WrpK9sWgzyb4nq0DjsuzqZvA-Smy-pZvI-h9hzn83MA7bmLlcmJgRzhqOgHxqmXap8ZmbhvuhHKeUxBicv35A56FPuABlpeFx5rgJASDzgN23Z36t1FQvA%2C%2C&cc=CiA1MTdmNjI1NzE0NmQ2YzgxOTlkMTJkOTEwMGZjNjZmMhDnAYB95u0G&resale_goods=resale_new&hid=91019&nid=26912730&show-uid=17819513970799847369406001&showUid=17819513970799847369406001&from-show-uid=17819513970799847369406001&cpa=1&from=search"
+    },
+    {
+      "id": "cpu_3",
+      "model": "Intel Core i9-13900K",
+      "brand": "Intel",
+      "socket": "LGA1700",
+      "tdp": 125,
+      "price": 54700,
+      "link": "https://market.yandex.ru/card/protsessor-intel-core-i9-13900k-lga1700-oem/103198534281?do-waremd5=m6_aVHx5-cI2fotQGwd3KA&sponsored=1&cpc=7jB6N8Gml9EzdEA7t9NnzFgVFV_JsXmHippBkjgYOhjyL7jRHnf40r0iJvCpAYw993_ouWj3VVcEc7vrltozXqphntUyBXyPiRYWyk8A-TFoDfmtZYqkbYLibd7Ux8e0eWTrN_CXixayAfS02VhhvfBPobuotSYI3NY0jFq-h6aRdSCNDLM5jlKGgGjCStw2uwFVDApKy3NY1OeP8vRCl7KFtDWsyo-YFAAzpDhNW2mXalEOsR-_HK_BRTJau2tnJlFIxLabXxbV8yjeLEsJftePQbO-2qRJprRE1iwBo6icAWxOh7cmXau-OmD6rSiefq1nCntWAdHAz_9ecEK6DPzbpdjRtVQpIfR2rgFBcXwz6d_8jQQPX6YjrjHeO3P0pwhI2SPqfAtZ_U38zS5MB2p0l6Y6RgUVKRwzpMqLmsccj1Tg8i6k4t7mHeMu5R3gQ029pwAcNkc6Eg4yFbCjyYNGQRntlHPAKymbVm-wn1_yzTmYavM2A6rnCeL8q0LdX-9tKEFZL7mY3FanqovQvw%2C%2C&nid=26912730&ogV=-12"
+    },
+    {
+      "id": "cpu_4",
+      "model": "Intel Core i5-12400F",
+      "brand": "Intel",
+      "socket": "LGA1700",
+      "tdp": 65,
+      "price": 13000,
+      "link": "https://market.yandex.ru/card/protsessor-intel-core-i5-12400f-lga-1700-oem-cm8071504555318-srl4w/4628803085?do-waremd5=HBDbc_JZhrxUVJxSIrgzRw&sponsored=1&cpc=B8VyMfjiNFMFqyHD8u_WRuUKvTSpksF5gRzSxhwHAIsOtkP_6avajVLTtZfovNdsixwYnUPOL9j2u2zDg-4Grsagz-YUBa-2rt2dHDO-_leUTR_jftJkxgxHAldWPbL79KPuX60mGeUlhr66yMJlPV7zTySsCm5YzXO8KGrAf2Z0nMVwIgDZ0hGAwpMbhA8-qlj8Ce95TvBxrrRC1sHwZr9rnl7OglcM5IKrdYtKnaZK-5-RAKhqgccyyFco4B8glYscWU29wQJOG0zKYVwNeV3xA3M3leTxo717aiWo_Tj7CrPaplTzGiWar_MdCjBBo-gjWuAb1HkhJrkuiOHvzOdk1fFTkhFsmTW4LDl41J33KEfddVpOLc-vn98TM112pjZU9U-x7_hpU0z51sL1lh-QhXgriYWI-7FlbF0ZMnIcnqd4ZEl1AcYBDmSMpy2deTV_hPaP5yZB0SyBg0CrFfnehddx2EYf0E3Wi8TkhRsgy_SbXStsb9GI2XkFEElHcmq93zj6ekvssF2Ht4Qn20ySfIIpcnKneN5kkY4ZnRI%2C&nid=26912730&ogV=-12"
+    },
+    {
+      "id": "cpu_5",
+      "model": "AMD Ryzen 5 7600X",
+      "brand": "AMD",
+      "socket": "AM5",
+      "tdp": 105,
+      "price": 13500,
+      "link": "https://market.yandex.ru/card/protsessor-amd-ryzen-5-7600x-47ghz6coream5-oem-100-000000593/103196813626?do-waremd5=JoijEQaRCtsAjibmJNGIFg&sponsored=1&cpc=-FdU9Jv8F0Q9mLp67L8phxJAlicf5yZfJOXU8OTkievCQDIqsG_qNXMSk3_h9cZKhAUDYFFwk3rAqBa6zD_VoyQfWfYWJZ85yesKcLQsmzUlPhC0qBs3FpHjNyb-sPHzlz7mznfcuMUFRoZrUDrCvkPYkswOoUO_DmJexVrwHOJPDVILT6oGoWrYRiOuAgWJ8-5eLK4FKl_I3VPzX-7PuLdzEQc8GMDZwRaF3YS9W6kxe6L6D7Qk8lG2rY7HK6_mOiHTbGdOzKWWjT8yKNocv6AoaudrMdGs47L4bzm5IJkYmLo3Zc5d-0UQngT8u5_gqMFhQVKT89Slro920d-bKn1DUTwbrOi6qeiJETKEdkHMbIU997alN7n_CehUM8yN5efy_7xq4l-mG42A4f9QUYiCSB7rvkWM1tcrM78WoTEwtmhQRdXfmPozv9FtqF87vVNp5smZ2euVjNTquapDPRVN_IeK0SV547n2DNdVi4ysHBzczU-qyyrqUe5ugf38IwbHEXA07O2r_SwdzX0BGxE2uRNQCQc8IHwpOvD0WopL0QJfHIgaxVocl32ZyWV_YvC8rD7"
+    },
+    {
+      "id": "cpu_6",
+      "model": "AMD Ryzen 7 7800X3D",
+      "brand": "AMD",
+      "socket": "AM5",
+      "tdp": 120,
+      "price": 28000,
+      "link": "https://market.yandex.ru/card/protsessor-amd-ryzen-7-7800x3d-am5-oem-100-000000910/103199841087?do-waremd5=RrC0u7ebKMUk3HN1-b3vIg&sponsored=1&cpc=_UnKU2UFBnsLjXt58xn_zOzHYkIHF4dv-2BLSBOk-xsPklA3Q455_GH8okFqJYfi-Gx77hpAf0DRtpNB8xUKGpNKqd56sIpUusoiZQeS5sNHHyuaTjvbHjKsG2UTXL57Rp0rrO4-6lnKKKrz-2iJr890I98UJv1GFvAD8dCLK06U8iGLGvpWowlvSJaQ9aoMexTYc7Fo6zsb6-ODEgq2lX4KBZYVY9YshSGMCFOajIXADGGke0Cy6IrfiImQxm-msyFXCRVbExQF0uBcSF1FQCGRvvv_c9kLUfO32sywwJfRB1f-pjUGMvfQPhdVMY8z8tMvvEo8rsLBEZQwLEbYEOI8JOy5Vyow7SKiqHO3l3_413gVR0m51lXZmdKnWeVt9rofPs8sTspxuyes4BvEU4bYQGSNt9ilWUy_pUoj6dOvd5lcc9AKnKXqpVYHHsTN3jxCWSdqC4dn2mAEv0GpDXn4ujeW5zFgyK47RXmsY0LdjGyX8GpP_uPfRGLBzsOa7O10x7EHN3ujTrEFTy47i9G5dTYn63JJrlA7WtIlqGmcgVeLoobzVnwBhc7fG4b6TxmIiB2Bnts%2C&cc=CiBhNDA3YWFlMzJkZGM1YjM2ZjBhYzk0MzA2OTM1MzA2NxDmAYB95u0G&resale_goods=resale_new&hid=91019&nid=26912730&show-uid=17819516063198864670706001&showUid=17819516063198864670706001&from-show-uid=17819516063198864670706001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "cpu_7",
+      "model": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "socket": "AM5",
+      "tdp": 170,
+      "price": 46000,
+      "link": "https://market.yandex.ru/card/protsessor-amd-ryzen-9-7950x-oyem-16core-45-ghz-socket-am5-100-000000514/103195013399?do-waremd5=BbRrxBscmuhVeaIle_FHRQ&sponsored=1&cpc=3B89Jql50epReV11Jf5c4T-cCEEM9D0jwrPwyLsYPIY56PGEDdvIjY4b4G0e-DJcDa5-_mHBnXXW2BmNQCmAW9hUFJAyO1dbAJNNgT9z6rTngcXUa4L7So7u9hX00NKWZodxco3Q96dpNAfA-21VNZFcR4XkUOa_EeRzcjcRZquT_C1ZFe06WAc5ONWwMO-kzcPRJAHLttjyijRuX0guynV6zzWt-DI8WtqK829al-GN3hi3w8xdiB_fRE1COnEU6zMDnzd5zTFDckbhpFD1LVBg-IrUSTwwPRpBCj8nNHnHfT0GL213h3vi4qBz00gx74Cx1eW4YzmHCpLSM6eLu0yKuE8MJ1vJQM1Vbwjzwfj93cEjrHfMhZiVFHR5P6UbzohhqaxcUDa1c-cXZGaPSmXYBSBSn0StVX8UuGAIY5R_J4nEaS0LsgknOAIfgT5nYYoz6h_OtnbBFWL_4yf53azJx83oKTGVRjsnQaj7D6oahJ5bfSfD3lL6kkm6SCwv03qHoA3L0h_moL67GPEGZV9W2v-ctu2dITCRtleNGxbmzwfLKPk-8TxrDPnrQEjcGnSUNmitPdEY0XNxIFUg03tv-giJSlmNV1bGmd923gs%2C&nid=26912730&ogV=-12"
+    },
+    {
+      "id": "cpu_8",
+      "model": "AMD Ryzen 7 5700X",
+      "brand": "AMD",
+      "socket": "AM4",
+      "tdp": 65,
+      "price": 16000,
+      "link": "https://market.yandex.ru/card/protsessor-amd-ryzen-7-5700x-am4-oem-100-000000926/103199745961?do-waremd5=d_Ey68ln9NirvL2j3EVRqQ&sponsored=1&cpc=9awpZ97PpA38cIFSz9fvC7biMM88hRTvc-LeiTQxnxd75JCAS1FlIJHymGPf6bDvivRczGuD-gpcdwlJuksyzJ_eaDnOvJ1HnHf4U_W7VDJVQeNMY2wNMdBuSA3bPxWIHRT3BxNaYBrNvs3hjsy_ob1QU-fcFTo6l_CnDnefyk2kUghpuXerysohN88422iMFHntGLsiYGX29choIBoNtamn2nUjre--Qau0XcwfUbYC6g-17bnx7qki9eQTeIoSvE-BGnSLLCQfoue8qGRq2B7tt9Yz-qTjJjKLjsqvp91yCX5nKGuif02Tk5nVcJAmc8blPk_07qiMIblB010g3xAEnPxR6_sKGS4SodGVA5SZC9_q2zP7bndjXR3SJ_Fv4-rFZyiMEn8mmBXanWaOAja4WT4JtCcLT_Jjov1L1d38HCWyp23WCNEMdMiUJPYjCGiNvgF1V30lB6Sw1hWBGjPULn87DKloInw1maVBYP9iuuGikbMwNu0pI_wfetLsSlZflzjKFbFRdvDmEvDdvEJWsrtTVHMoBZjqluGrCIUYQKnFzzKduI72hZYJDxWugtezMxPeEB0%2C&cc=CiAzZjU5ZjFlZmQxMTAzOTk5MWE3MGRjNmNlODA3ZmIzZBCAAoB95u0G&resale_goods=resale_new&hid=91019&nid=26912730&show-uid=17819516676000683749106001&showUid=17819516676000683749106001&from-show-uid=17819516676000683749106001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "cpu_9",
+      "model": "Intel Core i3-12100F",
+      "brand": "Intel",
+      "socket": "LGA1700",
+      "tdp": 58,
+      "price": 9000,
+      "link": "https://market.yandex.ru/card/protsessor-intel-core-i3-12100f-lga-1700-oem-cm8071504651013s-rl63/103450324977?do-waremd5=4pV4yyLGFXVOh-MQJmgX3Q&sponsored=1&cpc=K_PRLJ__4xMD3z0Re1INqqoAMVu7WUAM78mB-OM2B7gRv7KwQNCWKIkArkmmBPt1GyIK3uk2MG1qwHARJ6LkbVvrd1VOUK_UGIqdF_xbAxTIMd1mwuKjt2eHQYmwr0eMi2IK3Db0lUW8AsJbJKLds0xwAjpGr0C9f3m24x6Ggj_xZUrcxYjApfjS1I3rt_w3YOzVUt-IW9VQFi5zuUEIuIWVEnNchNlpI-KNXZhUyrktN1Koadg7gcjDJh5RCRe4VdduEI8oIX7OIrjzwpIvJglgaEsNswXToHNK64uBR7yjPvyO0h04d79cftmXvwrrI4BZNwfCw9t1WfPpYsBcH_L_W0g6urqYgSv2geEuTrouJEx-Rp1UXnhOQsu5XBFNlYDVMp_9LWMSwhde28yJcSPs1IkL5jwPGdLOEzn774rxptTFVbsSouozcfyBKvpTlQsDGUv9JRU6opMn2eSDmv4JBg6qj5fq_DMqjp9J4lCXUphcBblsmHzdQUUd35Ctmv_kg31TPLrzRiT768zKa1CQeKBhHsRz9MPrXA9NdGMsEdjd_XFCfq7j2bxNWzjJRI5Iz6DWu1pNooarLMucWg%2C%2C&nid=26912730&ogV=-12"
+    },
+    {
+      "id": "cpu_10",
+      "model": "AMD Ryzen 5 5600X",
+      "brand": "AMD",
+      "socket": "AM4",
+      "tdp": 65,
+      "price": 12000,
+      "link": "https://market.yandex.ru/card/ryzen-5-5600x/4850363832?do-waremd5=VdFQozzlDIcfZcL7-m6J9g&cpc=wInTrHKb-JSbR22NuVvIRc4RCxGXlNwZ3S58UWoqoZn3_OqM-waSN87iNW_z9unRcFhHfVDQzAB9Ax78oe3Ru2BI8GbQKOq3-B7nLrM-xk_4uEKZAq-H573dOgKp_kUQRQBOd1ACo7btyOAuuBB_2QusXbSpmzZ7WW5VaC8Th-1jT6M23XE11YMHEr8B5IbCakfrUCText_at6c9d18FaejZUSuBJOe48CBnc05WrXevPVcNjPHcttB862TIwVZHVTn79F4QDobjDWJJxhYMmk4oGqHTTJI0xMSRWYn86LUDgYcK56qZKV23NXm1C1M1nI1mXo45k9oE4ph9Ly66WlQ322to6W6nbpTktWaqVhWTxGbiPW6Aoq2q9fJ2HB18fsN2vA94XjQtfqQg8FDogJtG8P81FnXjGvZlivfjPNPQcuWaxVSrumwQqCvF1d9y&nid=26912730&ogV=-12"
+    }
+  ],
+  "motherboards": [
+    {
+      "id": "mb_1",
+      "model": "MSI PRO Z790-A WiFi",
+      "brand": "MSI",
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 21000,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-msi-pro-z790-a-max-wifi-lga-1700-intel-z790-atx-ret/103199996649?do-waremd5=ehSppaXRHhegw3pteW-XSQ&sponsored=1&cpc=mr5Z1sdDcc1hmshRlGeG8wue6CmvvyLToAZ78qsnUzIqqOq9KxtnFb00FebMitcxhOodxXfEj3-ID074o0NrRuhuxRkrnognrZRvGMVp07boKshyzbA1bTu6Vvhc-0q7g1WPTYm1gJTvwsWn77bVgXcdhkLagP050q5jyp4-3EMAXaskjT-4ahyFcpiWAGCi4m8VIcRI51cFsm4s6aGKQcJKL4ZSGLYGbFrdEU_VbA6eIjGSP75YSVasR5wRQAgKSrPLGnE4UJd12A3BYbs-9NUS-XgsGB7ngQcOTwy_PGu2hnSiboHeKv1LdRQNeFFBi0cjUNPQ0wXFeuLdy2Sc-S3W1R-C9xKQG8xeAPDqeBNxX5OzR_Qph5jHDtx1hMpLPRS6zw7mMCLF-GGdsM8wjfWtVB8dAbVQApMsJ3xHQy235PzmI3dvKQYNeLGkEvstzN4_nXR7rZxVkbozOL-RfYVhaACEo4tjfSRehG735GJ73Coj6kTL5nNvpWXKaNPC&nid=26912770&ogV=-12"
+    },
+    {
+      "id": "mb_2",
+      "model": "ASUS PRIME Z790-P",
+      "brand": "ASUS",
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 13500,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-asus-prime-z790-p-lga1700-atx/102192574911?do-waremd5=calNz4H2aZdc7aOFM_-3mg&sponsored=1&cpc=tO_Ke8fnYz1oIHoFzyldfCULP3a2KcfecifcanRuPKulxY1GPk5RHJygVmDuDHSXoRwzJW8GOPwtHfV8qWPW9iBF20lEVl5gUzsgn5uZF3UVL3BRMDbme_CWoh3knFMLuZZOxbPGKtQnprPdK2XjsR5Sj61pW3e7dx80ObycqIyLwVFKyD_cTGAdg0MQggZW0aRJ0UyBZK7GRB-GzlnoKeVNI-9Voi5UcbJ6BgAi-WpvhxDsVyU3UXnhrY1EP0RVvRhdqYknEwWrNa7KUvraq3MN7zeCdAJDUK93iD8xfpAb9K4LMGedYe6vunnmXGQbVXyaDYO-UuEbhDRRiUgcO3kbSttTplt89CNsYTV2eRT1SMuEhxl6iI20za5ZDu2ZErytvNNyThLLdT2D6cp-HvAo6IPNoc5nHyISzh1kwuJzBqd6qBbOj8wMyVlOI-zJ2cfdEEVDLM9aJCeet1Lf606BQ2uYOR3OdyApLmVlUqNNwB3yVXeCAt39mDvxcABF06d9DO0C8me2qs4DInqU3u4m6nJ0jw_LMk_JDdYGDYu8JkrBFLvyPDiVlTV2h4eOj4zGDusiffm-Op4SUULxKkapRkgKmHLrUgI3THeLggo%2C&nid=26912770&ogV=-12#fullSpecsAnchorId"
+    },
+    {
+      "id": "mb_3",
+      "model": "Gigabyte Z790 D",
+      "brand": "GIGABYTE",
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 10800,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-gigabyte-z790-d-lga-1700-4xddr5/5774608835?do-waremd5=b83BX4HleTynMhQMYzgT7w&sponsored=1&cpc=J3eCWU98hK3DbTHez-rb9Hos04qfTNEtDaLcBHsPL3eLUdufmsuML3TbTtO-0eQxVbAnEgllqL7xF8u9lnVy9kRLxajYgxVEsj0aDg_iSRRggmSCX_JqpwjU40Z3xiGjH6R-kznxc4Pf8xT2SY3zDfd9teGN0CtGiNQ9QCJhqa0ckRo2erC8HP3RKypsVRDXRvyVsCTDPSL2Z6CBrYDWNAmokiTPf2JRNfT3JOnirv-8IaXD59aDLsrryHUZgRMPShiQ8x6G-_1Ol4g0_sY_405BkSGMaLf1nDLXBCUVVFPSLJYL2hlGZenm0EO_9wqimzuSP-1RieRl4t0tfHbecb2bBu7EcOmNpDDpK9E-QhI6qHrwIHut0sWlGqR006q3cvm7KOZp1WJZFGGwSzGa7dRNXBUXCRQ66N6NafvguNyiSRder7jOzuFAb0vbK_kp-uf3WiQcPijWpRi39j8PpJZY4VTrO3i6zTviAKsJBLhcw7iXLzayYFpqvYQJQJlH5HN0eDXNaT4oKBGXIECFu688dBaTdC-tBDlT-7y4UI6P5iJOudMG-BzMhFc_aXbsR8sAeuaAlNYIhcPL9f0y6VbFtBl5Inh5kB3PduzQOlC80JbqpWroqg%2C%2C&nid=26912770&ogV=-12#fullSpecsAnchorId"
+    },
+    {
+      "id": "mb_4",
+      "model": "MSI PRO B760M-A WiFi",
+      "brand": "MSI",
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "ram_type": "DDR5",
+      "price": 11000,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-msi-pro-b760m-a-wifi-lga-1700-intel-b760-matx-ret/103199996660?do-waremd5=jSCW3VTD1TD89PPKqhHYCQ&cpc=HqLKyXR4TBfCm0B6SQIcxarDF0MVPhPkgU0p4ctGBzPWWVYOG3A551AHcJ6oMKsI76dZnoGq5J6E2ckbAkjZU2x11aPt2v7IDOJ_i1grux0sz4vaHCVuLR5KjDDXjd4rAixJ8cPd7x4cSKz9b82h6P49KRbZv_fyc976qFq2Ep-zr36hhZFXMrgMviZOXkgRH0NxpuxrJlIMbBieCqqsfy9SCwleOq-qm2wTWWoDh_ho0bfUekCunZTkMoG0pLI53EW_ck9WkZehLpeXhlCswsZpTs-KDzkjWi5ZReNhdc48YDSpOV0GYgoDYRhvRlK9EcvPz2vJKCFxmE5zCJPsVv6aaxX7we4fnpZHkG3ePbTwFCEW6JgbsC_qqbyoZRIwH7FcKA0O5-x7TR6yM_uA1bJNH3ZD99_bKmqggoq8X8HbzkItIfP9jcsi0L357MOeq1hQUBbSEjR2Wps4g2Ix4WM0pVyl_77w2Kmqh-YTcWe94w3r6-k_FA%2C%2C&cc=CiAwYzdiNzc0ZDMwNDBmZDIzMmU5MTM2MzRiNjgyMTNkOBAHgH3m7QY%2C&resale_goods=resale_new&hid=91020&nid=26912770&show-uid=17819521896828504269606001&showUid=17819521896828504269606001&from-show-uid=17819521896828504269606001&cpa=1&from=search"
+    },
+    {
+      "id": "mb_5",
+      "model": "ASUS TUF GAMING B760-PLUS",
+      "brand": "ASUS",
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 15000,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-asus-tuf-gaming-b760-plus-wifi-lga1700-atx/102109052337?do-waremd5=-kXkkOsRPZkwU_CRr4nj6Q&cpc=adD3iRlF-pYreWnkKa22TSCAdIDuQpBDM6vI3VW2aEfZcknYFwpjvf0p9_VT14SYb4cXL0MAnpr6Jph__6nD7-CiA4ATcSrIlmSYy3c8aA_uwwTD9BCtVLVyghcT5Yv_tdvGqPPMSvz2cUM8uUVFjlQOVZQRSOSDj9pUw_xTubpr2BhBipIIcKyW_8I7XQfkuIGxQXGQ2061l54RVsuL6RwgpoMz-W2i0POGJLLAOEzOAOO3Eo11c8hL3yKBB3m-GqqesRL6rGwQzAwNvbIFtdsLE8UaqL2Fy6x49LAccVFKwwY4jI78SrzO6m5dhxm1jfKbBL1Zy2xVOgt9tQeI01gVaG-ruVhhv0XBDZfnxix0kqKWgS3HI3yE1IhRtNsi0Z06e7BD-GHenj6ixxKg2z7z58J09caY7eOONqFG-eVhXCU6Gw4-lhyeP2_HnW8JnD8gHgY4Xs4FOLauTJ9kjz6gPjnleLydwXETL6mnMqYk-gatOtUmenMq5MraH3Zz7peUsIbhoO94DoJYTRsVLYQWLHp66292cOfcJsgyBWY%2C&nid=26912770&ogV=-12"
+    },
+    {
+      "id": "mb_6",
+      "model": "ASUS ROG CROSSHAIR X870E HERO",
+      "brand": "ASUS",
+      "socket": "AM5",
+      "chipset": "X870",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 61500,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-asus-rog-crosshair-x870e-hero-socketam5-amd-x870-atx-ret/103621493861?do-waremd5=mEp_5SUO7hGHR6wTkyzEnA&sponsored=1&cpc=_PNjP_1jx-epPC3HiGeyNfRHSadkSKS4NZuuvoWHiDxeK9oLbjiJseWvHlMT0MIgPho9x7MJuoqyaiFJ8Un89syccjs3vuC_w6yGAVUpKeQrSO8vEMAqHN7rl9tFsvwK5KE9LvL3R4zC3RE3Zk0pIzvlm4yaASF--I9g2qYTccXnurhzARdNz7VBpumwUz9r5TgMO8KO4tUa9769p0bChHacx8FoTF56mvyb1n7C2y4ZNsz3OmEKRqx_0d88CtRFZXzkrcBvr7n9VjFupF8wI0z0VlYYPVtzm9pSwt5bDIDruculz6B9cG53aRnanhESdbgzvfS0it9YmgTHBgbjlmbjnJytZ02tpSdnOMGZLTI1RtilYpr-iDVyh8SQ31iE_s3nDn1g4DH9eFAZrYYMFnw3OZVB1GZaQsvgFqp_x-f9O3gJkmFkb8_wU2ujGbtXBpy6yXidfeqdq3xqVCbjtCVNZAS3psXrX2-8UHcAIJ4BUE3fx_EBAxhqbwhsxjzD&nid=26912770&ogV=-12"
+    },
+    {
+      "id": "mb_7",
+      "model": "MSI MAG B650 TOMAHAWK",
+      "brand": "MSI",
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 14500,
+      "link": "https://market.yandex.ru/card/mag-b650-tomahawk-wifi/103577161235?do-waremd5=iJ_0QKSZnk48N19Reav7hA&cpc=_X8MVZTcAHu9UBSj9UvwSW3C1EiUwrflJjBQ1l6BqrLycXJCxp1p79MstnWOAUu4gjRsixKfH1nWf6gNHOdbF-OM71Rc6oG9KsmalatZzHAdwyWQMXoBEWRqQIq20keQXwmCilqnHtPkslDS7gGbSLe8fSwhMUh5QIm6JGEirK3sPFR-d4ZhMr6KOOsq-pv7JxUotXsvUkmTGchy46mfomvdwCJCpXDtMQHW8b-4mK_C4PKcGvJ1ICtpOW0QPBAHBq6eAX7j4RtlyjxL730m9EB08lGvQoOL5iVNcyXsnz7YJTQEWCK_ozXJsV5yiUaivmkJK7LgeXduQhY15Ra-f8zrb_kSxWUuPYzgIDwk2FnW0l9KmsJnCwJpp61p32a8akukEJTE6oI0DBn0Wp4DS2G9EwxpMnF9I9oxYM7T-UjQ84b83KAv2pVc1TwyjxMp&nid=26912770&ogV=-12"
+    },
+    {
+      "id": "mb_8",
+      "model": "GIGABYTE B650 AORUS ELITE",
+      "brand": "GIGABYTE",
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "ram_type": "DDR5",
+      "price": 14600,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-gigabyte-b650m-a-elite-ax-ice-socketam5-amd-b650-matx-ret/103199996694?do-waremd5=Lw12iFoT9nGGnOWy2_rN1w&sponsored=1&cpc=G7LT2qUahRKLqQK--johRSFhPwMB--Kgbe8b37_tpabzSk2IOHCe05Vc_2WY7Uf3vnTacfLpGofEelIAmJVBguFy7mQZTKHzKN5kai2_v-SyVSwohPyKa_mKtTCZiC8yXR4LOE2jtJ_PQP-l_2IuLwB9sluQEd62CFa5HvY5GudOJBwPlQO2fqAqAy-yDLMq58ZY1-G9w5jqWcYfUbdIpNI9A3HnXY79FnQrymOVOwigwF2JU9iJD3oJHvFIKMlIrajTBrJbvu1pDfnDJrgEvOTUY_afvE7U1Kz2OWD_-ROvA_2Xt6pzjnXuY6r7R-wmXRrlWltDMMnNS2ZgMn7S0iQp3UgDdh4TGB9hcn5NTou9hlnZAAamjGgHrWzNWTynLujY66znFa7ssl0F-pjKRXeqMHeIeiPApdtXBfR7naiHIR1enYNp9tsDaqxzgG-1qVJJ3O6-KsbqBqZHbVx0Jhq0dQaoNS1eKj8M9f3VlIx9MSqy3ljVIw%2C%2C&cc=CiA5ODcxZTNkOTBmMmMyZTQ0Zjk1NjI1NDhhNTk0NWU3NxDnAYB95u0G&resale_goods=resale_new&hid=91020&nid=26912770&show-uid=17819523737963386105106001&showUid=17819523737963386105106001&from-show-uid=17819523737963386105106001&cpa=1&from=search"
+    },
+    {
+      "id": "mb_9",
+      "model": "MSI B550M PRO-VDH",
+      "brand": "MSI",
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "Micro-ATX",
+      "ram_type": "DDR4",
+      "price": 8000,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-msi-b550m-pro-vdh-socketam4-amd-b550-matx-ret/103198617772?do-waremd5=fF-VO3ixNUs-UsPMmWcEyQ&sponsored=1&cpc=W2oNHvdowBPJMJqIeGvOO1OdB_5DPoS0-R_V9qFlCtvaqYkbGlUa98gkog2rRB3BghVjcJ4UmvdqEQ_E2iq51Fb7jo2oi-tzNsMv4HBUSl8Tyra66nTA-xOc3fHisk6hpMsxJ46Y7ik4fXVsoTmfqVot3mlSx1wrmifnDf2UuyNsO7q-XCUtQu2AS3bRUSv9ThsmBxOPQbTbJKMZ_QoHpHH_EiYowpaG7jUCleh8yx0UJ0Td01VtQxqzHl5QxKXc0ab9d52hdJ2gEAOX_ekY9WyhKqNscIinaCQ7CDDaYxoEHr9xVeMqN5MwLNLn7TcW7L5wOJ_36Fkb9QTiT5JRTnKaOflP9iSuZwqnaKrtwedgAKZoBrsKHsE4KuEa4MAiJelsfm618q1cqoC8-1Z4ElYQJeEbSW1L6TW141mSG0VPVPpw_kx5688Wu45tjR7daKdhJkVo7s2WD1W11--ciRgFmpf4uqbxIEjHs62H6JmpFzqM6BgBR9JMEYCsk8kxS6us4goXbzGJkACyDL--MCgUO65qaYDIbT1r0E4VuRU%2C&cc=CiA2YzcyNjA3ZWMyMGYzYTc5ZWZhMzhhZTA0ODM3ZmM5NRDmAYB95u0G&resale_goods=resale_new&hid=91020&nid=26912770&show-uid=17819523982365623462706001&showUid=17819523982365623462706001&from-show-uid=17819523982365623462706001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "mb_10",
+      "model": "ASUS ROG STRIX B550-F",
+      "brand": "ASUS",
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "ATX",
+      "ram_type": "DDR4",
+      "price": 16400,
+      "link": "https://market.yandex.ru/card/materinskaya-plata-asus-rog-strix-b550-f-gaming-wifi-ii-am4-atx/103202973570?do-waremd5=naLbTp-8cXh_ejU9CXkhaQ&sponsored=1&cpc=r-RHuA_T13ZzAdwvsdz_I3M-ypmwsQayUazGh-n4P8rK4yWI9soIMlooF0YpjK8yGCHMf7H1YyCURgyMD0JrxPjZBDAOPhWckvVw0EpGRJQYIr5TA0DIoW-Vhi2S7PX2K6At3MsJ-TwoUalHeBDtC-jC1zDDlHzQiBzgHJ9pdIPfQtVwrO0ac1RzyJJPUh5iyak7XeET4Aegcz0P-ftpW1SzOSHh7fJDB5Th0YKLtIv-YflQTeZRDq2CMdquIMOVvIGnyWnrQrHDZLRtj4vEd7s1Ou72joFn-Ydfa3InpPeNyxi1ncG5kC-K9tkE_jEr3ttdRDjza23fXoyYXzbD5wIJ_Do1uZbQA974O3CfxeAWbed2ZcSAVmnpW6PVDHuE8vDsRr7t7KiriyP1kLEQcZwPsI3kWa5PtxNpg51scoJFnEzxBjr7dRLCDexSYeHKBSZWWNDOFJwhKYWdKR6RM9eKm3Ty51AK6uVwXdwpAi3dkiam3neDBvFxsP4e_FzPY8qT3cbqTL5mzxYov7ohAAVQriWM1ltCscoY3OJOhEm6Ew1McPYAD1Poz4oThB7hIlYq10T00gs9pV7lppGXgn8TKGkQlhQcNq96PUCt9zk%2C&nid=26912770&ogV=-12 "
+    }
+  ],
+  "videocards": [
+    {
+      "id": "gpu_1",
+      "model": "NVIDIA RTX 4090 24GB",
+      "brand": "NVIDIA",
+      "length": 304,
+      "power_consumption": 450,
+      "price": 180000,
+      "link": "https://market.yandex.ru/card/gigabyte-videokarta-geforce-rtx-4090-windforce-v2-24-gb/103767070887?do-waremd5=A5bBWS42av7aMAaJC_clhA&cpc=QayJyCpPXVRtUc14wjZOQFZ-Qp_Ip036YgYJTTalX2nyjeWXWS57bBKlMcAw3bk4oLPzsSlFeRi2HDs-StmqUJIwTr7QOJTnjefhnGjBdJKnHkIAG19SY-MV14xG58XHxAj6WewqYz4zXY8KnTEJk9Ll2IJDrX4c8bdM09YZh0uKSjPGdYFs6rgdi6hvw1wCODsAyCWHSliKR7kdg_u9pavyyAOgoe7eqWpqsa5QImNsKd7wy0RMbdLP55mJIxhSDkVEb5PnP2djpXgZUzLhtm4bAzMjfql9WkxrcjZ1fcJO2qyub2Oyf3f6Xker2a1qnvw_IeYvBcuoDq3ClRGo6HOuRhg0xOxiK6ED-G6-TaMOmaEsCYWpwSZscnXOrQCkJ5N-Se-6eYrT77ZKJnL0FPsSHmt2DitZlRn-egu2qX-Brfife_7wAFzHa34Y6f0y&cc=CiAzODRmOWFmYTdjOWNmNTEzNmQ3YmViN2VhN2IzNzI2YhAHgH3m7QY%2C&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819712590312536859206013&showUid=17819712590312536859206013&from-show-uid=17819712590312536859206013&cpa=1&from=search/"
+    },
+    {
+      "id": "gpu_2",
+      "model": "NVIDIA RTX 4080 16GB",
+      "brand": "NVIDIA",
+      "length": 310,
+      "power_consumption": 320,
+      "price": 58000,
+      "link": "https://market.yandex.ru/card/msi-videokarta-ventus-geforce-rtx-5060-ti-16-gb-gddr7-pci-express-50-x16-rtx-5060-ti-16g-ventus-2x-oc-black-plus/4901628768?do-waremd5=-WeK4cdXvGkYaKgqxNODxg&cpc=W6bHu104_ExQFOSHzQ8LhG5_5TUp-H11hMVBgt-Zl3P_4wBFWSV8HOOxAFZb3IGOhDkyay9IZZRs10Koq0G-BMpPs_Uyx8f6BL9S4cSFirm9MUjIayb-luRpGknUQP5lOn2ET681ApHpGCl-UI3UU7IJtubNBu2hyDKOglNu7IKDe4jYmFk5rSCixw5pbu8S-3ZQgLGRBXM3s-GFYKYqXnpDWOtCD8VzZUIiXHnGVAFWHeykaH2PORcFyuaYBkHvM9VnnRmicHRwvvwisuKI4nT8h384vC3aKM53dg5pBeE8olPPf6q_IEIh9OHXeE9XzylW-4l_Bt64HC709PUHF9KHPzXuH9IbdGROQKtMNavnBasmdhEAg8W4G0UZkYEbewP3TLtcS7vRQ4gYY50GSji_cFskVJruDZesVFtX1t14yvZY-S6vbRBUprEBWANWkA_jWoDjmGCwM9tx05nO-m9za4FEGg1bPGD2YvWm3kGR4CiiWttlT3AwzUWcNRJKHULMojAtMC91BWQLlvdDFA%2C%2C&nid=26912670&ogV=-12"
+    },
+    {
+      "id": "gpu_3",
+      "model": "NVIDIA RTX 4070 Ti 12GB",
+      "brand": "NVIDIA",
+      "length": 305,
+      "power_consumption": 285,
+      "price": 75000,
+      "link": "https://market.yandex.ru/card/videokarta-msi-rtx5070-gaming-trio-oc-16gb-gddr7-192bit-3xdp-hdmi-3fan-rtl/4841343749?do-waremd5=o__QzCwCPE-Wy0j5_T9fcw&cpc=-QAVC2jNhUhrFVd7Xi_Ec19f6Kxcl73f-3a5kgBtMKSXUqUui_iAk7WMqSlxbbUXr-gPEBe6CtiTGAZYBpyuNfzYc99tM4QcKz1drCNn6ty9pzL3DvZSisgfXQSD3xcEpekKHw_iYwUABayIaLP20AWveP53mOnuh5F416j0F5rsQ4EUDx0Pctkr-aHiIbAgFsoa2fcxVwbhOKFGUxTyYhj5Y8NghvgGGOzSMyasp_h_RhbniyRIqnjerKQ1KB-yas4dqYmT0-0Kq37x-6RcXdcjeCGVqHVSdo2MK_ed-49KeCXm1Et4kDsNU3JYy9jO4LohYMb3axxsqNZSLZBcI1_PBhfqYq3xQC79j7P6v3Slexk8mVt6U6qbVzrMzH0ZhK-EoVGbwmqQYBXLnd24W5O2sKiBI97_TUyfeRrXfEE_EK1tSCTWy08P3ISiQcAPp9KtGE-7bwJvy_GDqJA9QVlmDIQXeNY3m9-BYpQnwYV-rs7R2zSCPw%2C%2C&cc=CiBhMWE0OGMzNWI1NmU3NTc4YWVjNjc5MzYxNmRhYjRhZhAHgH3m7QY%2C&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819713890534524809806001&showUid=17819713890534524809806001&from-show-uid=17819713890534524809806001&cpa=1&from=search"
+    },
+    {
+      "id": "gpu_4",
+      "model": "NVIDIA RTX 4070 12GB",
+      "brand": "NVIDIA",
+      "length": 240,
+      "power_consumption": 200,
+      "price": 55000,
+      "link": "https://market.yandex.ru/card/videokarta-msi-pci-e-nvidia-geforce-rtx-5070-12g-gaming-trio-oc-rtx-5070-12g-gaming-trio-oc/4357021892?do-waremd5=CIHVZPSdP4n3wcTP-JqWvg&sponsored=1&cpc=CWiDuF237GDH3rOjhAypI2A3p3_opyYx0MHilBHiuoqtGJnay2189I1y95-Pa46X7ewZkPOjrPXK4uKuXg3wUCD9_EjD4FmjVWwucQ0J25bxoexRONiSsPG1_FnLeRUC4gwGBMgmpBrUJ2iyY6jUwdTKYa8OlT9_K9sN_gCmz1ywyQMhbVhIO_aYSLf3TTKGm6A5iH38XryEVz56ELsugxjWiKnaSp3oBkgtdkuQNe19jlkbp3Af2pa64GYLi08NdLEyMQgHJVHfbWGHd8ioqtfmzrQTq-bOkB6DppunBpZnVJeiDu6uDBmkwZYxlYx3lO2pYpjiO0auXRo5lCEPzF2qklW1sEPNu2e2jwpOTVwnaHVebvZGhF-Vh16JSAC9pPBOnLqEAiCFeUDvQ0SM5e41zzzQIf30FD85VytXzPh3KDpV1_HzOPhf2q9e1NN1Fnh-nec0NkKvsVeP55YX8z_C-WQmzL4pQoq35xd6N8HC_szILXf0LJuqHf-xucQbcaXpX8vCXjtIVg9Z2r-IG0LYHvaCP8e7jpyIZFv1m3BBw9wvTuk2EniBly5lCU8RoDxUw3Tv4AE%2C&cc=CiBmMjIyMzdkYTNiMmEyOWNlNDhhNmFlNmM5MjdiZGZhOBCAAoB95u0G&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819714275078931417606001&showUid=17819714275078931417606001&from-show-uid=17819714275078931417606001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "gpu_5",
+      "model": "NVIDIA RTX 4060 Ti 8GB",
+      "brand": "NVIDIA",
+      "length": 230,
+      "power_consumption": 160,
+      "price": 35000,
+      "link": "https://market.yandex.ru/card/videokarta-palit-geforce-rtx-4060-ti-dual-oc-8gb-ne6406tt19p1-1060d/4617590601?do-waremd5=mipG2divZng3dfSQwwp83w&cpc=G-uomM_yAtMfYTmsZDV0iW_uuvFAPAddNVQZzM_qyt91cNn_c0Oi5FP4BZAtUKmksYrcP1naiuQrBfLtG5F98AFJSWm75mfSLAR_cqQBTCTFWuVLycNRXexrwM96ygsGwvyco9U3pOPy01MGi7DIGnd7t0AEd9Ibtc_tk2oEZVCoeTQrfyrV8ruesNCX--29MxJePkcIFW3mr0Y5wzGCsjpChrHy2wbBYAsLIfyOIMjgDr2rCZyrTgg2b_7qdOwlExGNVgWvhr3H4JoXYPfUgJS5Y5MBm4hLszDXVLSihmJrOqTn_gWUz2d-0CtkQp231bSCY8iFAtzQUa6VoHccGvxBGh66A_R4kUsJlGMBXAZ976ryKMa4QoSSB_Qpy1A7iOAx9-9AaH9S9VcyESVaaXA0wBCpwTFgMiGsGV_0NBbQbM07po3lAVvCIXL5WWfd-dCxsQqFe00twvosLw5RxYQExnhwYbCv67YAsTbQive-_VpAbG7yDlXWpXi-km9fMPr_CefCOyk0DYRrZi2a5A%2C%2C&cc=CiA5OTk3NTI1NWEyZWIzOWU4Mjg3ZGZhM2Y5YWI4ZmE1ZRAHgH3m7QY%2C&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819714459105509612106001&showUid=17819714459105509612106001&from-show-uid=17819714459105509612106001&cpa=1&from=search"
+    },
+    {
+      "id": "gpu_6",
+      "model": "AMD Radeon RX 7900 XTX 24GB",
+      "brand": "AMD",
+      "length": 287,
+      "power_consumption": 355,
+      "price": 90000,
+      "link": "https://market.yandex.ru/card/amd-radeon-rx-7900-xtx-24gb-gddr6-pci-express-40x16-videokarta/4727059059?do-waremd5=vnWh5KJfIUzZh0H9ZXHNwg&cpc=tVXwEffUNLzx1sNnSLnyA7hYx3TME4iozgaLU-68yPPKRLRIdd5z9t8cMu_RoFIjdPn2J2HhVmA3RX9c6a0sf_BMHt41tQHHG-Qx2fhO9WoA-CMR-xV85CyUJx5NH6xctCkZKwRcbw8GA0N4hBw-7m2xIyboAqkrtERj7mveKALRCuU9psKIhDuloNi1WHyy5b0MGiNXJumFFlDk7PYMtwWaiBOUU8pAzamYixPeH-NXyKFF90GfI2R2rgay-wAMpx3pyqs_Bn09KK2CzLimSLoc3g3SAFztL53_OGX3SCK-i-9xuPj1yB8nEJlUQzUNPiaJ3jwHBfV6Aoz2q3NeXr1uUXxlFlzY2CH5qZ-Wk-yFYjwziur9z18ktsnuyV3fAz1OFP10WplkWRYp3xubRKIi-39FIKCSNwLFPELJ7oY%2C&cc=CiBkZWY4MWNjZTI0Mjk3NThlMDEzNmZkZGQyOTBkNDVjNRAHgH3m7QY%2C&resale_goods=resale_new&hid=74936696&nid=74938469&show-uid=17819714764596056104206001&showUid=17819714764596056104206001&from-show-uid=17819714764596056104206001&cpa=1&from=search"
+    },
+    {
+      "id": "gpu_7",
+      "model": "AMD Radeon RX 7900 XT 20GB",
+      "brand": "AMD",
+      "length": 283,
+      "power_consumption": 315,
+      "price": 75000,
+      "link": "https://market.yandex.ru/card/videokarta-rx5700xt--derzhatel-videokarty-v-podarok/103725248982?do-waremd5=2uDqyW68a5SLHSFXHAFs5w&cpc=5VD-L0pkxf39biXzx0wjLUtTXP8NbPyXmr2rr4QBByJm3tfflN_2kAvKGZXaYLftMhIyoK4mBx5I6zswcA5OpuNpMLPMHvc3rma-cmqcpGZIteea7KGCOpP9jGgU35KlKpWtAfWmMLrj5W4DJHwmpwz6et1iN_eXgc1nzOTfZ9comHUC0L75G2CBE5Y9LACaZBkt5NlFhsRBufbgKoxvtLnqyKgYayXZG1YmEa0vP9uMqPWdz_ztqSTB_RKMdsmZQqzwcd7wpBwSmt7Unj25TnN7ggqfF5qKGddaFb3fgJ5x4dd2uyUXQ9pKgvTs6RDqWPhXEBDXNaoGF1qcX3IJklwWpRhjoesS8lNOAQV9FO3RAzike2-S17Jteh0JDwkCAllO1A1pJ85zWSDd_mlcM5Dl2eK3jdFBenmInZxW8Cpbq7OLq2pc7ha7RC-mh2jpkSuy0tCIDTU%2C&cc=CiAwYTY1ZGYxOThmN2UyMzk2OGVhMTlkZGVjMzIwY2IxZBAHgH3m7QY%2C&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819714996327021385206001&showUid=17819714996327021385206001&from-show-uid=17819714996327021385206001&cpa=1&from=search"
+    },
+    {
+      "id": "gpu_8",
+      "model": "AMD Radeon RX 7800 GAMING 8GB",
+      "brand": "AMD",
+      "length": 280,
+      "power_consumption": 263,
+      "price": 30000,
+      "link": "https://market.yandex.ru/card/videokarta-gigabyte-radeon-rx-7600-gaming-oc-8g/102384388821?do-waremd5=d7NyFBbjak5v38QAjul2Zw&sponsored=1&cpc=1j7yFVMCZEWKszaA1jWPAg3C_HaMpLLW6-A-k4GDqLbRd2QZ6X5ck9U9FM9uYmdwcnD-CU_oFdR3K99l0T6npYrR2BxcuMVLux7gRxElZqPSSy_e837lTzxE8JH6sngp7PUt-Y-jtS3kDcU-AA7iKLuw7j_4GbCQHa_2qQVMb95_6qEtMJoh_i1dk5Zm26XRWvs3AO6P4GX8XD_vyelrmGPJ5tNE_8FmfHNhcqr9sAPHrPcQ_1ERKdpvAcE0wPqhz50jiMfbeXOq-dug8npqPfpTjZC8g9SAEAYa8JQcfywvoaC_D6DcP1eGNZhB5GQXHVr67EXfx7GB1zpFlhFDG1W_ZySrtyxQmsmVHuANzKnPB20vZqFIXoWR55-d7cUkcjGK2gVdwKHoftjbSuDQ4cwUSiasNiSEyaOdrB_q04MPwRMysAHQcvzb-Mr__H-tPsqlli_RKmIFducKRkwaS1ygqn-iyoC3bHRUEx8LAZtT0Ve0C4JsU0ErybHv6vZTm5RYUtMqq6SM9HcKJMLUmw3fGzlQXqbAVwFAhrhejHfr7zjw8iSDh2ppRVOwvn1UkJzYALFz-G5safvEMWME2JHISG3n2U_cdyHxi24JQoE%2C&cc=CiBkYTQ0MDA3ZDA0ZGNkZGUzODE2MWZlYWZmZmZjMWMxZRCAAoB95u0G&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819715337561008516406002&showUid=17819715337561008516406002&from-show-uid=17819715337561008516406002&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "gpu_9",
+      "model": "NVIDIA RTX 3060 12GB",
+      "brand": "NVIDIA",
+      "length": 242,
+      "power_consumption": 170,
+      "price": 36000,
+      "link": "https://market.yandex.ru/card/videokarta-afox-geforce-rtx-3060-gaming-12g/4333151758?do-waremd5=SST_6Hr9zrjOTEQ956U8GA&sponsored=1&cpc=BhXDQGTAOpP2Fy2jqf8w9rICJajdGF5K0rh0jV9-Rhe062Bovw7SEuma0ARLR66Bq9Dyg1z1M-sgIC_7rpdIwoKrWD6hlAQGMpOmHIRHSunQQeqRPHekBAddHi_5lHrmOefXthllSoi0Y6KqM9RlFMsnhZbtx6OEw2mtTVUfDG79s9ApY9KZ-t1_IsHI7ECNgwawlYDBJOkMsoEqsbncAc91Oif43TZfnlXqlDZFeI9sPwN8VSA8b59FxF2O-TEiyOiRJ_-F4ThdcupyskqSgXyeV5HRPtBlqdu2uEVTHT5MNHQCnaeZpFqQjytow3gD7UeXPlLubISCpzOzKZ0q-_zplIPW5nEdZZVw4ej-fJVixSQVOVwfee-oflafmENNZ-TI89XpcCRFmW6qzf3b4eaA3SXE9h8I9TdleNYKi1UMvjVYD91BLCZiHnDXZWmVXTPXjvdAROx17gDVEtGAW7VciVPZm7cUdM5Hvsgc6G70_U0Bp5pfm70N2bFgMiA28Lr6-EhZeBa8014foI8sI6-1kzLFJddIxIDmyeXm6KMpYln_LB9Wc1kBuLdBTOHgH0jTog-tSNFBGdHh6j7ojJKcbEDa4KX_Ztg9kMb--LY%2C&cc=CiAxOTgwYmFlM2UyYTJkODNjZDU3Y2I2M2Y1YzJiNzMwNBCAAoB95u0G&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819716006774225181906001&showUid=17819716006774225181906001&from-show-uid=17819716006774225181906001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "gpu_10",
+      "model": "AMD Radeon RX 6600 8GB",
+      "brand": "AMD",
+      "length": 190,
+      "power_consumption": 100,
+      "price": 28000,
+      "link": "https://market.yandex.ru/card/videokarta-gigabyte-rx7600-gaming-oc-8gb-gddr6-128bit-2xdp-2xhdmi-3fan-rtl/103797543762?do-waremd5=rlJnLMsgD8JhVAQpRJULHA&sponsored=1&cpc=uBtCrJrKf19zB1jsC9IBnIjG38GfUwDGuhFsLjRerfL4iApRetQUxViv2o1lgL0ZZdXmKzKWhPkZ8VopF9PgldNiTaFhJHh4WfvHPrY8y18nRZw07c4IMXis6fgblut-GqwPsM9nt-FyqLdaT_c-8jOc7Q0BULOcc2sg_TKwVirOLK2YvMRRInb28at6nx7ol402oJPmhQPXoQpulFDNBUcWYyfwymixyND0dOF6U12uZNP1ykBW8WZh-rX_FCcdo0E0JD9nsqyAp8sYBgU42kUtoYKOkMLIL3xi6VAtyHsrQDzVX7quM1BWbZi_JbSCxWx0gOsdb2SGMatXrDaS9Im2a2AOir3R21hFnmSYmUyTowWZRA3AOczL-Eg5QdCiJbud0IubB48Y5LrCtFGXpXmlhT6SJB8zvT9m7OLGI4iD6-d0DlugLvhrTAcWaBi2PuINcjkv5G-rZFQ8PSIQYx4zNl0hnRttLaNsdSthfYqt2Nj6vdc9lugkZOgMViTl7jjIlngZ5jmuyrbvhws3xO8f_zzSmZ6yYEjh9VjplOU%2C&cc=CiAzZDg0MjIxMmFhYzc0ZTY1N2RhYTEwNDI0ZjFkNmYzNhDmAYB95u0G&resale_goods=resale_new&hid=91031&nid=26912670&show-uid=17819716256899468209006001&showUid=17819716256899468209006001&from-show-uid=17819716256899468209006001&cpa=1&from=premiumOffers"
+    }
+  ],
+  "ram": [
+    {
+      "id": "ram_1",
+      "model": "Kingston Fury Beast DDR5 32GB (2x16) 5600MHz",
+      "brand": "Kingston",
+      "type": "DDR5",
+      "frequency": 5600,
+      "capacity": 32,
+      "price": 21000,
+      "link": "https://market.yandex.ru/card/operativnaya-pamyat-kingston-fury-beast-kf556c40bw-16-ddr5---1x-16gb-5600mgts-dimm-white-ret/103075643896?do-waremd5=2N1UG1MIB9UeYK8wwujiOw&sponsored=1&cpc=wl2V1pokF_7_r_nZoFKml8Z4Zl2UmEM8bxmDlvM-yDkRz3HN38I6R7ii9WnV6PQydOuToamSWnxvCpYMJaY-uR0WMSQ0qabUPJNfZ_UTEdY8qxA6PZ4a7X3Koyd8fF9tVMw6sTKDQHrw44N5VIkGImZ1L_t8z8UxgbK8CttqpDjxgzf0CmVzKEWhcW8vOH7Lhm9e8EjQzo0xTzReFtfoJi55mZSp11Wx3B3a4EQkVsv5f8SAyrs701yELHPsZn4M0LhEQVHee51jRpMeC3CADV24pnpPJgdtBSpVDaPDiPa5mZVQkXxtKAIYjTKPGxWtS2Ag88KQWu3-5Iu7jOjvc_WmT0VfQ-9iXnHiDeWY3aSHWg1ScQeZqXHQWO17FnMwYFaddQz9LLXJhPBNEtS2ErUDJkep6Zmol_Hq7nCTSWNV4ohVyv9wZZ54aCKtnyA4ka2bjvqUDLtaztLu78D7h_rVMy1Wbp6tpMo9eu89mI5YdgMof9yRvcNdFy2rFHFuA4UEbzHjoDSsEkH0HGRyM5QfiMbZcPuDtrvMhJbpLxcBbuehUXQUcg%2C%2C&cc=CiA1ZjMzNDY5MTUyYWEyYzU4ZGNmYTBkMjBlOGNlZGMxZBDmAYB95u0G&resale_goods=resale_new&hid=191211&nid=26912790&show-uid=17819716495730831543406001&showUid=17819716495730831543406001&from-show-uid=17819716495730831543406001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "ram_2",
+      "model": "G.Skill Trident Z5 DDR5 32GB (2x16) 6000MHz",
+      "brand": "G.Skill",
+      "type": "DDR5",
+      "frequency": 6000,
+      "capacity": 32,
+      "price": 60000,
+      "link": "https://market.yandex.ru/card/operativnaya-pamyat-gskill-ddr5-trident-z5-rgb-32gb-2x16gb-6000mhz-pc-48000-cl36-black-f5-6000j3636f16gx2-tz5rk/103202600899?do-waremd5=B8uEt66q_v_5FrU5TktT2Q&cpc=fvIB80nolIgDVNcCaSVzqctWi7CFu18i0ss_GLqVwOD9swol_XwSUY799yYq4ZUZwyjfNS2OlLU3CNl73J0h9ptC7AWUVLPuq1219XW8WjSHF2fWLQY94ma2bdXPm_UX_usFt3Cyf_TUdS-sXBjRYONvcuebdVapYSK1NreTvB_TaWAc-p6nPlMMSpJ3bFxwUw2RTIfgklaH4uREO-KpTjXQD57ZjZRfqtIvQUoR-hwLRrIPEv6X4XHRmDk-bhvG49i4SOT_itc1iu_RPuy-U6MX4PW2yZhDG1L5WXvQtk-upxGwxLoqAyG6ghroIUS_raKRjzSmwGWThS9JMG1i88K26jWPGysWAcuI8sRehc4Vtq5CRvCiMKy3afS2Kp9OgA8OZZxZ1Xn-ZaHKNtgbUVz1QzZ5kUSSE6ZInNb_z1vUFEHl1OZ-zROzAHYs3CSN8a4iXP6l3pnwUnVLFY48Z1oU_Zumus-iCW0w-5ptHHGwN539iCxaXoMTf1JEYvbjri652LMhvwiuLyZ6SV31Npf9jAoB9cafS12Ag6MjW7c%2C&cc=CiA0YzM4NGRjNTVhN2IwNDBmODMwYTIyMGQyYTBiNzUwYxAHgH3m7QY%2C&resale_goods=resale_new&hid=191211&nid=26912790&show-uid=17819716741276125319406001&showUid=17819716741276125319406001&from-show-uid=17819716741276125319406001&cpa=1&from=search"
+    },
+    {
+      "id": "ram_3",
+      "model": "Corsair Vengeance DDR5 16GB (2x8) 5200MHz",
+      "brand": "Corsair",
+      "type": "DDR5",
+      "frequency": 5200,
+      "capacity": 16,
+      "price": 47000,
+      "link": "https://market.yandex.ru/card/operativnaya-pamyat-ddr5-corsair-vengeance-32-gb-intel-xmp-30-6400-30-36-36-76-2x16-gb-cmk32gx5m2b6000c30/5742403711?do-waremd5=s4ju3jTIasg3hVEv9S3_pg&cpc=wxUCJ3Oi4xe5OYlyFqkMLfcY05c6qyPZ4xZqX6DIfhUbWowzWFekEK3A8tAxKyF5tq76JsxPCCOOpB_-1fobFv2TR3GcWmJ9HMrqwwdOdFpTOEBmAYLU8pdPLvFpsNOrP8KhIFWRYbFd045HlOqzEDZXKFK6EsF29z7U-kujXNzdWiAFBCV_K926b26HUqGRsJ4OxFz4Y6_NQiiTrJe2T_hRlqVka6LOiYpdEZzSIKDQlfhI7OX6N4x1ZPiut9TnxVIzkT-nmUxSE3GfnmslHK29Bv31j9GTQ10PDYANjSfLVxahNmqMFtpTFtw0J4OalZpl7PWFnDM7e-z02ZTH2AtkuGcz9rPf5OBMpqAr7tAxYPcutbJvnqISqXpW71g19QxWJ63NXdlYpIHwMS2douvVi43fVMsGKvOlk9Uc9E12JqBXj6_MIGGGsDmZpcI2mzvnvzTrlcqZ_eDlWer-CqDUJsxWd4zrULpl2SP3xWcacNaboar9E--kQGMAzac3PQtgo8Hlp8bvQKRees1nyQ%2C%2C&cc=CiBiYTI1M2Q5ZWI5NTZjMWNmZTU1Zjg5ZTg3NDgwMTMzMhAHgH3m7QY%2C&resale_goods=resale_new&hid=191211&nid=26912790&show-uid=17819717026525567113906001&showUid=17819717026525567113906001&from-show-uid=17819717026525567113906001&cpa=1&from=search"
+    },
+    {
+      "id": "ram_4",
+      "model": "Kingston Fury Beast DDR4 32GB (2x16) 3200MHz",
+      "brand": "Kingston",
+      "type": "DDR4",
+      "frequency": 3200,
+      "capacity": 32,
+      "price": 14000,
+      "link": "https://market.yandex.ru/card/operativnaya-pamyat-kingston-fury-beast-black-ddr4-16gb-3600mhz-cl18-kf436c18bbk232-1-sht/5319151401?do-waremd5=y3I1E2R9M0ocSRiaZDJoMw&sponsored=1&cpc=xal2YS-OkrjTUESLuB16fF0LqktZgZbb3fWMcRK0CR407J6pJexYLoclNEPqkKVVYznCTusyUIGOtyQZLKxrMeOhcI2gP-H-lhHnivicMAjZBqyge5x-C45lcQwRyCHw7ufm11jssBGQ-uSDkCS7sN4zQhVF5uplAZ8NSXN9OrtbLQTQFsEM6SyezSE9JY5zp5yUU2A9eAKgwNi29nMjpE1MaWlkzYv1O3OFmVCzrRRFxZ9wbKN1SKQH30AXt3vHUIHBhPw27W-D9QsSK_LAwT6o5J5ELbU6J1vxbPotWZccJjOFO-8SI6scSDecsw3MZrw92ta11P4eCYfXvRP5szx8hQaPjlwTO0rPVBQryO4PTsND4zm8XXM6mwwJYz9DxSrtHwm3-empPbHRsTjKdI3wnY3JHk9TiNikQuWH0DixBgfaI-4HIAvW6jkSzFldFaBFZVa68flUl8jybRe81XK8YrRRM2by_Ju5vx-xftlybN61ZTUNgGe2Y_O8UnuFmu4AcmHpLjFNF7E5fh6EvTDVN4r--nKD2_IVyxh585mdTh35J1HC3VLZ3P4m5qvLnI8V76fmp3cLGRtbh2j9f05AnFwl-lQivaolqQqTm4qKnGZgUE-uLQ%2C%2C&cc=CiBkNGI1ZWYyZTlhOWUxOTMxNmVhN2JlMDc0NDgwYWU3YRCAAoB95u0G&resale_goods=resale_new&hid=191211&nid=26912790&show-uid=17819717246954391069306001&showUid=17819717246954391069306001&from-show-uid=17819717246954391069306001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "ram_5",
+      "model": "Corsair Vengeance DDR4 16GB (2x8) 3200MHz",
+      "brand": "Corsair",
+      "type": "DDR4",
+      "frequency": 3200,
+      "capacity": 16,
+      "price": 15000,
+      "link": "https://market.yandex.ru/card/operativnaya-pamyat-corsair-vengeance-lpx-16gb-ddr4-3200-mgts-16-20-20-135v-cm4x16gd3200c16k2e-cn---1-sht/5793260989?do-waremd5=5FUjMJ1tIObhgupJO9IlyA&sponsored=1&cpc=9rny4hnh4T860fUcBDLoPwEl9cKi9P6Eqor9k0cUKTULt1oqUbUvPK9mO86B8CGyg5O_u-Hz_0viMbjYU4hts9Kup4oAC8O5VCMvtOurSShF8VO_6U1lttch4hWky2H2qxa2apUn8LCvDbUkfwIdGvOCJrakat7jFKHol04-NVqLjEOYup_ma0P2PB3fMuWKhpmTVL53nIbGmppvpTxASWlAZcoi1n6eWzD6o-vUQL7pM0XAlATcHUmIFw3Upwvp0XTCXAOlem6AJ8A9gkGPdDoLG3eiRVE87sygwPXoGLDbXk99H-hv5uuIIB_LFUjNk_plXH1q2xZhCzfSBvqALDnBEwCWI3UcWoy55p4cYy0C3ghtI4B7mm4GU9yStkKX2mRZtN35EP3BhHcfgN1uvNssVVWEjolg2n1cTyiYGF9yIz9yaKiUKPMqigJN2Nzq5b8mb_GW0qKvV59jm5LAIBG7YS0TQpgLN5fcoMIvFz6PLUwpldVyl1RZ0w6WuPdNxV1UkSAsH5r2TuBu8bX3YkTWXpqBQqiNKA0kPWVHe_bR7Wfc_XsU7aIIvMa-FHsK6v6bq8xLXJ9UoCaB9UzAw5Utxkq1sMCYcsIkdXfiSwEIkQKHbIb23A%2C%2C&cc=CiA5YzliMzJlNzQxZjMwOTI4Yjg4MDk5MjhkOGUzOTQxMRCAAoB95u0G&resale_goods=resale_new&hid=191211&nid=26912790&show-uid=17819717485328758541906001&showUid=17819717485328758541906001&from-show-uid=17819717485328758541906001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "ram_6",
+      "model": "G.Skill Ripjaws V DDR4 16GB (2x8) 3600MHz",
+      "brand": "G.Skill",
+      "type": "DDR4",
+      "frequency": 3600,
+      "capacity": 16,
+      "price": 15000,
+      "link": "https://market.yandex.ru/card/operativnaya-pamyat-gskill-ddr4-16gb-2x8gb-3600mhz-pc-28800-ripjaws-v-classic-black-f4-3600c16d-16gvkc/103195390386?do-waremd5=NcVVmaAtpK1tFA6CvwQCOA&sponsored=1&cpc=tXBo86WJP0TDjJ_IX7bIgK2BMwZ4I5vESxnKc699g_U4fMxhAFv796EkfR5WURxiSpgILmXAcawT-gON81jvypw79R0jmNbYABFejxbRlbMrvJsxcq0uqy8sAGXUFve_Z_ANVwA0U9RaAHn3Y6zeJdNDX5FBDhQXoRdyVf_dOBh15t4gKYeFt9kd0pL04kAnSbLZ8LwkRGVC1uon1FDfrLKw6qC7_8T69FjukHILekDFaLS2LlDecvQwe4ooPHGk3KdwAvpUUs4dwIdJ2E2mWWK7Ge2bFpEa9KXcfW3m8IS5reC95jEVq_AoJ1CvbZTja0jJr9Gu1xgTxhv6cOd9TkUCQ8Ykv4iYA4yWhiMhT-TueLfciznWj5QWYr6h_3nFZfmBNlAIG3qYseCxtw1fJG3ADMnhgMnKxWUfXChAHGv_fDbtYR1cPUjI0QSnUP1YB_2y0TkSLYiqbxk6XQZCLY61RO8Lvxi_DYgjeaLAxuH-o_0eiUzzvRh88ihoVxKGtQveO4uAFCKBsN4mKka0TfhKcC3pU2vGyK87pxKp2uvs9cZt2IVd1T17vOEt7_dXE-CwqqD7XBg%2C&cc=CiBmY2E2NTdhNmM4Zjk1MDk2NjVlNjkwMTljMTk5MzkyZBDmAYB95u0G&resale_goods=resale_new&hid=191211&nid=26912790&show-uid=17819717686775850661406001&showUid=17819717686775850661406001&from-show-uid=17819717686775850661406001&cpa=1&from=premiumOffers"
+    }
+  ],
+  "storage": [
+    {
+      "id": "storage_1",
+      "model": "Samsung 990 PRO 1TB M.2 NVMe",
+      "brand": "Samsung",
+      "type": "M.2 NVMe",
+      "capacity": 1000,
+      "price": 22000,
+      "link": "https://market.yandex.ru/card/ssd-nakopitel-samsung-990-pro-mz-v9p1t0bw-1tb-m2-2280-pcie-40-x4-nvme-m2/102210967352?do-waremd5=JMY1cs-3_gRvB6u3a1n3cA&sponsored=1&cpc=GbUPXykQpvGfQfHJ_-qd1x9O0EQ81xR5nrSyhVpiPZuqdukUdVAm-niRx34ydEGU1MLAUueMaR2_S2sejUBi9shwcQsM9RIPHCBk3JFj2wWlq6k0H6RwM_wfx3iF9vQNKxcBFFsJxIGd9qjJ7oVVz7CSFsDWRPqqq53ZLKbbXCDD8RutCDrnarqFmWS93pduIr0QV1XODUlQK95M9RHwmVEyAWWaEnG61jHN_1IeZ3A0a1YnotEG04VfF8LXmttD_7UZ_8D-pWFr4u3mo2KuBYQlfkRk4RoCmX7CTfZPBc0CEYmTuS6wFqeM9k_K-U6HQfhAGzrdUdP2Pdfl4BYVSn6E3TLeCtUZKqE0fOCYjIM930tTXDPyWTxorun5ttSTQMZqGPaEkRouT3bzM2JNCeABPwQ9BXyAZEkQ-w14wiHkIiU2nRPcxbC6DJDJfS1PfI50Fp1nV3DJ8l4N8z0CSNsLo8liInQDHJVq4ODEoYrNo1vMPrQPtDAqyfwbkxchPA_9aWGABXrw6gL7mpGZQsx_rJTW-QmFHsWsOVIEi3NjF3d0xFRJR3_lvBMyuHOgFQ20lxvcZmw%2C&cc=CiBjM2YyYzA3MDAzMmIzNmFmNjBhM2FkNjE1MDk3NTI3ZhDmAYB95u0G&resale_goods=resale_new&hid=16309373&nid=26912750&show-uid=17819717963056888056506001&showUid=17819717963056888056506001&from-show-uid=17819717963056888056506001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "storage_2",
+      "model": "Samsung 990 PRO 2TB M.2 NVMe",
+      "brand": "Samsung",
+      "type": "M.2 NVMe",
+      "capacity": 2000,
+      "price": 27000,
+      "link": "https://market.yandex.ru/card/ssd-nakopitel-samsung-990-pro-mz-v9p2t0bw-2tb-m2-2280-pcie-40-x4-nvme-m2/102754675189?do-waremd5=uWIhTMcFaEhyw5eiYRYC_A&sponsored=1&cpc=vEMfVotyZHhBQFzJ5DRAq3ACmrmjwi6JG3uhsPSCpzFRwnSMygg-qGUR3gjaWggiNEbiNOtfyoqfpaHXk0nKevVP-y3at9HVnQIxvFv1ztKK2AZuyFSlFzf6PM65J7tMu_np5NDVHO69n-dkvggLXgirICp7xshm_GC_4LjVsg5QrlF9v3RHgBXrQu8o1qBPJNyLQPNb83F96CGc0jMfXnqp62mLA8iGjJ5D_TtYXctANWqnhOhXCuLRirEmJuArbQ7rgVS1y2QLsR924sQvszo0iPUfbOzJPMQ1MslO-5fRWpwzWPxs7D0QSuuq5qAaGR0FZELeAuV8tVYxBAvXiUodRn_iYVEkBc82LCHRq-t_AWR5UR8rfKN2_hixqfA5vRwqvHHIHFV_KTYAL7AaYpveU5FoJ5yTeglT3Yfe4tW56kzbQiIWfzBGDV20fFKbennnJXAe-gSiaofzySTmucdXExGyEfBuhYVeta4NszoE55J8xT6v5CskAtQr7Hd9CePp5Pm4-RkSuGZNqiT0d5TkkI5gtJVxLInvtL1GjK5i1gHVQkIiMo1X3iwij5J3P1z3MeYio7c%2C&cc=CiA0NDY1N2I2OTNkYzQ1NWU5OWUwZWU2YzJjNDkyNjg5YxDmAYB95u0G&resale_goods=resale_new&hid=16309373&nid=26912750&show-uid=17819718218997782149006001&showUid=17819718218997782149006001&from-show-uid=17819718218997782149006001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "storage_3",
+      "model": "Kingston KC3000 1TB M.2 NVMe",
+      "brand": "Kingston",
+      "type": "M.2 NVMe",
+      "capacity": 1000,
+      "price": 18000,
+      "link": "https://market.yandex.ru/card/ssd-nakopitel-kingston-kc3000-skc3000s1024g-1tb-m2-2280-pcie-40-x4-nvme-m2/102207222618?do-waremd5=3M_3C0qt2pHCkjxl3LEdHw&sponsored=1&cpc=XKxulGEOYKJWeUEGGPhhVpZ9cOEEUjzuQ7APfMhwXlbXrlbzUFPAMJy0SVLAvZl4khEblAbndjIJo21NKIIsqE_bi18CD29lFAhXRmwsne7_ZO-fJAkxPKoD_zIQn1JhIYMORdHdHG2oH1UsOv8k_hNXrw-MzB7Vv_4mZzq4O_5eRGRjP-TWT8kbPf2bg1x_GW7TwdhSmOps9ppgVtbNdr-zFcS1Xa8pSzVNYshsqiaV-ExWIgE8cZjGj2MOit8K07TWZjUORUI3i8UXErZBY2_uWHTQeq0mPmzJ4wzvQC2jHOe1ZeQ8_E5IVcrcV75GbNI83fhBaFUDnMoRTztDf1YIMYQuRjx46piOQLOShkW6vBqsj41t3MwCqPnmwufSsBRdQAzUt80OEta6iVNAN6ssQ7i8p2YfgGT6i6-3MIjOMvqMsd-7YqCQ4VKy9AyWojb6sUfJpqihthQqj7DepOdlkfjMxSovEwgr_a3A8PQpDHJclu-Wkr6DGDjDWFlg8ZMCVK0g4LaW_roGh1wumEz9h1osbdywHjyfxKvN8vClwjOdjbbhEWSk8D0Kl1-sgLDNDEItyD7Eb1QvSeLztA%2C%2C&cc=CiAxYjI5ZmI1ZGM4YzVhNGVmNmMwYjU4YzEwMDg4OGFkORCAAoB95u0G&resale_goods=resale_new&hid=16309373&nid=26912750&show-uid=17819721472216649057706001&showUid=17819721472216649057706001&from-show-uid=17819721472216649057706001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "storage_4",
+      "model": "Samsung 870 EVO 1TB SATA SSD",
+      "brand": "Samsung",
+      "type": "SATA SSD",
+      "capacity": 1000,
+      "price": 23000,
+      "link": "https://market.yandex.ru/card/tverdotelnyy-nakopitel-samsung-870-evo-1-tb-sata-mz-77e1t0bw/102584005708?do-waremd5=HcWIi4_2627eEGk1aPa5oQ&sponsored=1&cpc=vN3lu0toVGyxDpLmPj2mwlCM4ICb7s0pY35uj39HZ8rPUbleDtF5mKUFY9cALhnH82HOLr4_IaKsu7ezimCRaqEQh-dN4m7S0S291bjFi6vZ4I7LYoqahWT0fMpCCjPtK7xzuws3LPd-bzdC3EGA-IufNiTa843LnbCG7HT65gZoNcGk3suvnuOktJFPGwKVBt3Mhv-EA262y3mYteptYsKy2y_ixUa5zz6aNcYaTtWgInFNbm2wVSmm7GlWnbY7g5JSZlEGfJ8Tbf2lYWg2oilbVZPO7uPGeW1n1m7SHUUDu7CA0FfI7dXTIVQ8U6tOJ_BmpeqiP64PH5akEdlccz-tzj1sjG3eLX9XeDznL3mZGasXZtrBNwouiGuemy5zROVfX5hic0OA5SI5Xv6fUOWZ4xkHl33KvFsVBmKylvoJYR7lBJNQMjMMVMMQOlhVZFYIJae_5sBaMqJKsuWnLiC82zf_Kr5HZOKUCTC5AvJ3f3lxK7zeKshO2dUA4sjCI_JwVvI4-oFlcs-juiapn71Xs__N2s3omvmK-bOKr4hRoqTC01Bkndw1He8PheGT&nid=26912750&ogV=-12"
+    },
+    {
+      "id": "storage_5",
+      "model": "Western Digital Blue 1TB SATA SSD",
+      "brand": "WD",
+      "type": "SATA SSD",
+      "capacity": 1000,
+      "price": 18000,
+      "link": "https://market.yandex.ru/card/ssd-nakopitel-wd-blue-sa510-wds100t3b0a-1tb-25-sata-iii-sata/102247924923?do-waremd5=xWb4LEzn-Jp4QdNaPrLrdw&sponsored=1&cpc=nWdoOmcnBxUUhk9Q2xtdADoqLz4DfHReTG-mYS9S2Fnlv1qb3IQ0_r3No8BoYm9KsoOAVOaufltflZ1pmjkfKNd6oFLFz5VKFetMGYEwP5BHi_SVO7-9QIFVRxvTPUNnZHLn6paLoWnuETRLjHKSwV1YpFP2hR2_S36lJ_i_ukIAriwsXb-vL42IAMNxxaH_rvwd7cQ5JHbE-0zXwpVTXL5WwcQME7xI-5lhEQfAZ2ZbKXQLSXX7yJntVZSR6voAc5Yfv7014PG7sgcyl4DofWwXyHpPOfeWqVZV9ieMemvfQbx-Chb-SPFur5hVmRQBO-pNRY5ZA72oTfDDi5u1iiYw8tlQ63UVInqaTTet7E3kTx8cKMZVP1e9epkIRkYifI2j30DEmecLohr0erJsio6fUzOekhS0ALjY-M1rwNsqEQIuHCBk4q54J-nyxTPjg4_m4Uq0mOxuJ2ugxaxez_685fdWgplqiQ9-B5xszUSZ9XUlUVLKpF9Tv58zFH3qsVqPcAplX6xcrztaIzo36J1XDgUV7_xiNchjipAqQg3oEqDMsSb4zbhV59IaGOf2J0fCqtcas3c%2C&cc=CiBiMmExMDdkNjg5ZjdhMTc1MDg3N2NlMzI1ZGFiOWI5YhCAAoB95u0G&resale_goods=resale_new&hid=16309373&nid=26912750&show-uid=17819721937773454641606001&showUid=17819721937773454641606001&from-show-uid=17819721937773454641606001&cpa=1&cpm-adv=1&from=premiumOffers"
+    }
+  ],
+  "psu": [
+    {
+      "id": "psu_1",
+      "model": "Corsair RM850e 850W 80+ Gold",
+      "brand": "Corsair",
+      "wattage": 850,
+      "price": 19500,
+      "link": "https://market.yandex.ru/card/corsair-blok-pitaniya-rm850x-shift-850w-80-gold/5631372242?do-waremd5=a_IHiVPp0PVJrk26y_JCmQ&cpc=bs3RDiaYqhzAcxa19Oln7PLCjvv8dN66r_sh0-HjVV7IwXRWvK6H88zZRzKWpmZ_tyjowh4dCogPhPcVdWSlYlMtZhGdsKxrfLUOZ72N4Vn2vDfJnvrORm99sXG4YEM-JtDqMkjV0HZnHbcLG8GRRRLo2BvfX4q73UpyTxLN4FR2etu7R1QvhJe3cKrnf24RGuAFrofc_jeHOBAMrXXKpHWvpiNr0YTMUABG-mzP5kkmBcTioHOnwM3ULPel9Z9pjaEIioBJTVytNenH4IruB6S3GjahakAXx046MaEDfJDc1kDaDfW4ZHiiwFaDa9-S0vrR0nevRFjjMhT42511tQR1obEWy712I46tpe1eVgR62Sov1Mvwx9D-fFf28HrUH6GQvvthzIVlvCnXOtH5GwAGzqzcBNjLFm_-QxaSuJZhQBVvwWvewe8ZdxwJxgcNZzdPWSpg9gLPPKcNExMLcD5vla9WCrf3-gRPK-rUcIkffeZHclaP9KInebWLgNos386zx84PIEh7UZgGdL-TGGZkpYvIq4o02IpvCv2zKaM%2C&cc=CiA2ZmNiZWExMWJkNDU0ZjIzNTcxZDllYjRjYTU1YzFhMRAHgH3m7QY%2C&resale_goods=resale_new&hid=857707&nid=26912850&show-uid=17819722151887736583506001&showUid=17819722151887736583506001&from-show-uid=17819722151887736583506001&cpa=1&from=search"
+    },
+    {
+      "id": "psu_2",
+      "model": "Corsair RM1000e 1000W 80+ Gold",
+      "brand": "Corsair",
+      "wattage": 1000,
+      "price": 18000,
+      "link": "https://market.yandex.ru/card/blok-pitaniya-corsair-1000w-rm1000x-modulnyy-135-mm-80-plus-gold-cp-9020094-ch/5612410814?do-waremd5=rLheXCwn-8sHSoHdNOnvOA&sponsored=1&cpc=QlKc5RW3pS7nOicMvczIthRrud_j4SvfG-wWPHXY_4_BTNkPoAEX9vOi6CmTEuaP-r6bfQiXmopH6u9BZ7iLq6ANXyFFkpTPUmf0t7tjhdCVfkpM7cJquucGvFWx4yjKDIvTjxrpWC6LEiSAB4P_c0G4E18ZX2LFPcylwYnw070KX0uxpKTz9yBZJmfHvK-zM8xb_HVdiOpmYvCgf-aJx82nhdXOk0n7sywewDl9BTgCIBVE5-dc0i2f1LED0xqZnd6gD6Y1kNWPplo8gSftIyFVmRNb4pW8gg3g8i0iaevbFv5dJyFooNGy0-BRPzT8WdkahfDHDld7KWbOJgbLCnhSqavienR676VW4T3O1i4Aff3d2yuhVy3LzpKSmwjf2ExflvgcQKMQ_O29D5pXtNU4RTnc4jCIkQkOFWL_0IPtHX0Wa2ud_8FcD_oMu4oeSUJd0gnhw52t4JCZKisyx1up-cDu1KCL27yUVaTjeKXAHV78Z0KVL8sjQyrp4PUFm0wAIpTe1zkEBN25udFlWKcOrBvsOMxl8PmHSH0ecihHw2ZEeQvgWl87RwuFUwACFZL8MJ6ImjnDvjZnXTU8qGjb4jD1pMF_GzAnVNVbh8M%2C&cc=CiAzMTYwNzFmMTg0MDAyNWRkMmE4MzQxODg2NDRhM2Q3NxCAAoB95u0G&resale_goods=resale_new&hid=857707&nid=26912850&show-uid=17819722397964925500006001&showUid=17819722397964925500006001&from-show-uid=17819722397964925500006001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "psu_3",
+      "model": "be quiet! Dark Power 13 850W 80+ Titanium",
+      "brand": "be quiet!",
+      "wattage": 850,
+      "price": 100000,
+      "link": "https://market.yandex.ru/card/blok-pitaniya-be-quiet-dark-power-13-850w-80-titanium-chernyy/103633709653?do-waremd5=F1HnvHdFt64bBjydqUhLyw&cpc=yspTQm6lSwRH5UWtjbpwtfacN_VWUFHznMQd-4aMP7CGvHxFURRoqvnP4mcpwRyXjBfMFDfTi8SjqAZ_m3eEy3qg1ZBxDToEnzTHmx-AvO0jmZC7KL9Sr-IwMJdHSCPwsU3ywb3ee6vqY-MIQhwcDILIfPb1b2hXzkxjjBINf_1P6CRxlZMow-i1qtSX6QOYniOeFHUbWUXAto_SLCjYTBYC1aA7DeItXEmFcZLrGbDTSngYPzkZk9DamuF5Yla9adUSAeNOLj4MxLpKIv9sIw_hR6fjRrpI8rWUaTOxLP0FtiuDh1KbGnvuSho191_yeqRmGc8jKDGSxWg6i-u2aL5EZGc_Moi_OeWIPqJnf2nGxjVhWhEH72vgtNdwNDsuRZu9N8Rs_TfkUKn7gILBARqh9VW0RoW3kYz1c-50HeI%2C&cc=CiBhNzRhMGRlMDMwOTFmZDhiYjI0N2VhYTk3YWVjOGNlNBAHgH3m7QY%2C&resale_goods=resale_new&hid=857707&nid=26912850&show-uid=17819722654797935656306001&showUid=17819722654797935656306001&from-show-uid=17819722654797935656306001&cpa=1&from=search"
+    },
+    {
+      "id": "psu_4",
+      "model": "be quiet! System Power 10 750W 80+ Gold",
+      "brand": "be quiet!",
+      "wattage": 750,
+      "price": 9000,
+      "link": "https://market.yandex.ru/card/blok-pitaniya-1stplayer-ngdp-850w-black-gold-atx31-ha-850ba4/102665926471?do-waremd5=kzF4kZE7b5mgRNTf7SYiYw&sponsored=1&cpc=nuIgkNNhkRKyELwm-YQHGpnNmbreeTS5JeKKHg1yLkmeaMypnUnsKhJDn0sYjjQsoAYSFQodibZjI-sZBeXtxPN-7Vhd4SK_KyTJxi94kY_4OzVoQPlPs-LyF925_wUAi__FTb19ojOb0Fdu1PmMDVpPBw1LLud5C1L9TTWLJBd_JrTdLUY8oZ20H-IPvj72kZcZEuA17bHYmtD_LyNrK1DZIKprCIlhoXLTHxOOB1qQSVxPgxjtA9a06jGxQHnv8sbPFSH53D45DdLwxuUGcNMGcjjttlnkunjyvpsu0F4HFBpkmZVJ_fRPvIeNAOtFyJI4fARr4nLDX5YBrAWOIQgyrPmZwz9ND2F05CDPXiDMJ3oBnWcPg9w1tuQl_xwUq-ZQHYwLo-wuYml9NC_5Gv_q2YGc_JGesxH_cZVt1GMq3HQYs5bSv0ETjcAqH_T5cqscMN1i3aSnI_MI4KurzpoZywLuSDFVDWoT3LKaZxnalBLkDzIlvYqFCcbFkYCxXpFa9zImP-RaF2OKhzjuawPeeaquqciVhsgE-8NtIGPSr1vkbgAROQ%2C%2C&cc=CiA2YjhhNWNmZTUzMjI3NWUxNTNjZTZkNGIwYTYxMzc4OBDnAYB95u0G&resale_goods=resale_new&hid=857707&nid=26912850&show-uid=17819723010029957807206001&showUid=17819723010029957807206001&from-show-uid=17819723010029957807206001&cpa=1&from=search"
+    },
+    {
+      "id": "psu_5",
+      "model": "DeepCool DQ-M 750W 80+ Gold",
+      "brand": "DeepCool",
+      "wattage": 750,
+      "price": 8000,
+      "link": "https://market.yandex.ru/card/blok-pitaniya-deepcool-gamerstorm-pn750m-750w-80-gold-atx-31-belyy/103733096034?do-waremd5=rl2He0_VpJGFsSeTVHPjjg&sponsored=1&cpc=_UQB7BFLjZG7-yhrU0WDgew09z_HSLZw8brXlCLCSVdxhvVGrhX-8jCZCanU1218OED8F0uTHwdjOR_VvXGOMkHuE04togS-TdRGyLFpCM2oUOWyIcejeeCsh7eZaDNqb8ONH3kh8rP7--QvoPxa4O6pKLQWZqGVGhEPz9y1xwTLawFQXKlCj8iMhQCh_jCOpJ8NhncrjoIP9oWqMxONpCUqwnFuZfCNCtK08JndoFpLDdMth0Jcpiyl0ueF0qYGCIjTJctzDakY5hyYyUXY_aJsmp_hBzMvF05zHiKrVC6LssvaCvrL8LYvmG_f68iTtKJA51Zpt56dV9BIPheeZAW5-qDEuaKwu7BASfX7RJsdltnHt6qPVYkDwSdyj1pPl2iB0ecUaVLu5eNqYdoTwao0mbuijyfa_j_PPfCabQGeZZCX_Nbqy5qgOqt3Fogu29qc2Rishuq0tNyZKDjYxeHDKRb5VxQFDMdmDPm4vJAqiWEN2H-wnIbkMamCB1I7APKU1n5vQPWSBcdLArkYci8QEycFDOjwVJ9Omq8fGFTsr6UVn_ULz7YEAg7hByspsTIDLJ36MFGJ259H3keNoNlNZ8t5g-7czRiF3gP90GY%2C&cc=CiAwZTNjZTY1ODY2Y2Y5OTFkYWQ2YzhhZWU5ZGRhZGU0YRCAAoB95u0G&resale_goods=resale_new&hid=857707&nid=26912850&show-uid=17819723314718792772106001&showUid=17819723314718792772106001&from-show-uid=17819723314718792772106001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "psu_6",
+      "model": "DeepCool PF650 650W 80+ Bronze",
+      "brand": "DeepCool",
+      "wattage": 650,
+      "price": 5500,
+      "link": "https://market.yandex.ru/card/blok-pitaniya-deepcool-atx-650w-pl650d-80-bronze-204pin-apfc-120mm-fan-6xsata-rtl/5714493653?do-waremd5=Uyix8E9M5EASdUCB2f-iKA&sponsored=1&cpc=Khf6LKJE8-fpVepn3ynSwbQw-k-a5SSkTofiCTGkHVQFSzQeiVYk1SD8dh2fS5_TFbuk6DzzzW8KDY9sOGoRzgbZZzEjx7ZJ__GN1UJyxBX1qbrPMtKD_JgBheZ2hLqpGSiAXryVsRalpFCiAACKtuH3VXCpgqUkpt5TpI5sFTdRtCaKYaVOvXiZx8e81XdbHYZOAt8tNVE6W1TNs-lHsun529CVmkm1D8kbDhvtnJQUIgtHFE3Tuq-X3gDGsNM3yWNFkJgzOGVgs5y756M5YXd7JgGR3g46ShrIOZEGYtWlgm2ssl3kxQmOiVwXFzMAdsCF8pKEd_5v5ZdbQ0Hg48YrovmdD-DppL8FDAG5e31gzsAtoDv7vYwWhzF0x2IEA39uY3q5ZKMvZFG5deA5suaU5yrlezQATmKhNrIzdNMh__NQaqGeXFniZKb-s9SL_YH2MoM3E0oHP3KwHz5kR3-sF3Ng9vD1heBs1mY8QWznjT4PI0Pz34QA0gp_gkFPNQZtbncWu2k7wyBZP6BHnNwSzbqLPWV-Al0pU4GKlvj6xl5l-GP-uN3HPGEFOy4dixkW52R2BzM%2C&cc=CiAyYmNjMzhjNWFjMjU5ZDFjMjRiYjVmZWZlNWViY2VkZRCAAoB95u0G&resale_goods=resale_new&hid=857707&nid=26912850&show-uid=17819723495774057124206002&showUid=17819723495774057124206002&from-show-uid=17819723495774057124206002&cpa=1&cpm-adv=1&from=premiumOffers"
+    }
+  ],
+  "cases": [
+    {
+      "id": "case_1",
+      "model": "NZXT H7 Flow",
+      "brand": "NZXT",
+      "form_factor": "ATX",
+      "max_gpu_length": 400,
+      "max_cpu_cooler_height": 185,
+      "price": 22000,
+      "link": "https://market.yandex.ru/card/korpus-nzxt-h7-flow-2024-miditower-chernyy-cmh72fb01/4310468713?do-waremd5=BqUt32RODBNbsih--uGNPg&sponsored=1&cpc=y6SbYERIa1eTsJNLgluFsCB-nLzclQMJkguAilxoOAohtNuf9wB9Fevjj8YqNDDH_otH1bbV2cpPSSLdsA_0dCBDlncX_-wanBPFDzTPquJTUq5bbJ-6AfNScC5vbp3sYh7PxkjTm8vcYHMSVMamwE8TJTeteylAiiLA9-HAj5PmlsoYe2i51YgAn9TTQzp4Blxi8aLeApflXusvN5X6Mkr7upNangi9SgbK-dXc8XWCl7mmkJJ_pFu7d46fP2EbeVeRnU7WaHi73O1cMCVNb_NAC2FDcqEJIe16R7R05nbY2DuNSqzr8bGT3HyQ_mc4IctUCbV-2NMHnkwuKOtAxzG2k7xxCZs4FsztuIPdEP66UA0N5Ri2oVtIj4XeGzd0EI3Qn4iuPYEuZbVkLlbs7fUd6AdZIEPJdURH1j3tlqLCxabQ_tKIsOkraNq0IB8bmUJlhCTp_ADm4g9ihZuHwPkF_R7CmL7XS7FAKjc0rBl6C0Wde6QGg2rlPGhlE-jgVzMGqwdU_jb-B3bJ5lYNxYZzf-2KtYU_Zz2fkgp5cY0kIH-fSWg93T8mOnqcZjo2_SyqrflFLORJwp4tmOIhMQ%2C%2C&cc=CiA3M2VkZWEzZDM5MTEwMmVhOWM0NTcyNDJkMzNjNzZhOBDmAYB95u0G&resale_goods=resale_new&hid=91028&nid=26912890&show-uid=17819723938091950947006001&showUid=17819723938091950947006001&from-show-uid=17819723938091950947006001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "case_2",
+      "model": "Fractal Design Meshify 2",
+      "brand": "Fractal Design",
+      "form_factor": "ATX",
+      "max_gpu_length": 467,
+      "max_cpu_cooler_height": 185,
+      "price": 15000,
+      "link": "https://market.yandex.ru/card/korpus-kompyuternyy-fractal-design-meshify-2-mini-tg-clear-tint-fd-c-mes2m-02-mini-dtx-mini-itx-bez-bloka-pitaniya/4681698746?do-waremd5=9ZG7xBj1qj8DnkBMlqWQjw&sponsored=1&cpc=-rnz0zDN7VM2mIhAIC7C1j4SRbfpcslwMb2dr-xQ6pt_9ipyNxDWcZ03nDZsjqtCrPIGKl7ccyjScj3NwiY-uVNAmtceZgV-6xvB2C2gTI6IRUkNoJSkZfed5gte9b099sOYmGBIQPAxez9iyqq8N2OTlCr9X2LbwiZHSxEZ5Nvr7SkjkhdU6HYrgpIDACwANpsyZxavCkhLr-tuK5JjI7C1W_biIG-UY-AimlpzVolfG1DPv-vLGb877hHsF6NCxZfW837ItCeaAzLkEqpW3VQTMozsXxsXx6T16kRIJUJNhKSFjxjzjxt_e4A5B8NpKYJQk2GNWun3NMaxH7TWuK05Zx8MM1-IrS0OCPBX46WaoMF8h8hL3r6IYVa5WxLs0NeOENbZ2kRxP5H-S9XNanksLLdFOqAVDqKItBzT63zJMcfjMnN8cA57E3WvM_NmuALgobOf6WCI6dV2qQzDww86EpK_2FSuLQgrBDmnBoUJsvTz3sWjX9nHRR0x55-p0StkmNR62-JFe15OgaXoY90q5BxTNxE6Qehrq5e6Cig%2C&cc=CiBmZGM2NjA4YzhlYjU1Mjk3YzdkMzJkOWViMWFiYjkzMRDmAYB95u0G&resale_goods=resale_new&hid=91028&nid=26912890&show-uid=17819724116694462432506001&showUid=17819724116694462432506001&from-show-uid=17819724116694462432506001&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "case_3",
+      "model": "Corsair 4000D Airflow",
+      "brand": "Corsair",
+      "form_factor": "ATX",
+      "max_gpu_length": 360,
+      "max_cpu_cooler_height": 170,
+      "price": 11000,
+      "link": "hhttps://market.yandex.ru/card/korpus-corsair-frame-4000d-belyy/4583927181?do-waremd5=ZfeIjcScUwrbDHxwuIim9g&sponsored=1&cpc=RVafSJWs135P3ABfvjtQZgDCdq3mAVCdlo1dVpUCQPparT7oYDRjEbIOQZeVhhXd0FfIkwkyUlRxRyObWY-VDlbQvgqJhA07hhzU8ubhIr0uPgmeAIeabsquZlf9W1LK-q8NwtO0ARVXuibpBqGePaRnOq4eBs9Ywfn-XBHanoTMC3Pu8zLbjKvjK9AIzaSDjTuB-xBUYLsVLX7EWeZOEDyQe7qsH5d05svbwiLHfHHdU0rCDHBTChuyrTweEbfEPZyIoyMjVwFVglwZ_1VHPjJzgqrjqKEoLUcsr1-8iFFMyjRl2KyoMxcQPMT-QnvxPE7X6Jt0V6fAf71gYpka7e856rJKRlmH957brx0osNgG_bPWrkpRFY3dUenY140thwyPeP_U3y6rLy-rjO1vujf4dzk5AUXecuPJn6NLBVnJkrNEujNuNit5YoaRvBkqZHWDupw-tzxrMofs112ez8XF1sQM2R0vrPiQ82g75uYgX6ZHDUK_ltGYFnLROjD_48BkyCXGHRcYcKE5ZuxVzeokcaKbBUCC-cr4jpaO6rLqWAtXCs-MhcvZ3_N7h8GLfB0kgc3HZXSJt1cEsIqPkaPk4Mm6rprFjflpS5TeoDY%2C&cc=CiA4NmY0YTY5ZDc5YWY1NzM0YzBhNmQxZDhiMzgwMzQ0NBCAAoB95u0G&resale_goods=resale_new&hid=91028&nid=26912890&show-uid=17819724489054901975906001&showUid=17819724489054901975906001&from-show-uid=17819724489054901975906001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "case_4",
+      "model": "DeepCool MATREXX 55",
+      "brand": "DeepCool",
+      "form_factor": "ATX",
+      "max_gpu_length": 370,
+      "max_cpu_cooler_height": 160,
+      "price": 6000,
+      "link": "https://market.yandex.ru/card/korpus-deepcool-matrexx-55-mesh-v4-chernyy/103084196945?do-waremd5=vneBtoRglFlipjMVQRcdDw&sponsored=1&cpc=NKpSQ_olEv7ef1y8TDQ_K9GSG_EHTqP0VasyeS48ci3Q6yX5FhtptQyx4TXJ0Fl9WxLmt-91T5zfIZPCBN_gxIQ3oyvm2lGf0Q54mkpgiuo8lO2M7C_SeUX0oCZ7Tx-SxwP2FMH-8J-dTBHp8BVuP8GsTSaF56dbjQ6vPVvZby2K7zEkrIjVGgwW-SG3qC7UX2KvOXPMVE8J4e1lr4JeVpjNgw6yRtrG62KANcJnNotomAfkZ53vdfvHzJIuTLu1-alaXKuziw7YIppckmH8MbQsQLsRjEA7auWVFSq9_UlLKd_ck_-jWD0whXlHMIFCkQCaNgqU1qYDEH1-Q69OYKBrlkWySlX2l943IyGMppcOYC5luOR5S6MdopyqfJPEyDF-zp0ssE-7y29XE9-VzAY-hQ7ncRn1f7vxEzUdCviEsFftVSWcWnFbFfA5u03e58YMWJLb9ZPjgexvp228-WLh83RfQKZk8VgeMG0yyKw_ffeSomtdV8uoCwAjzAoyQEkIy_aojlp4OFd5SppeLZQHwDWt3ckh2f2ueLNb9y-Pfkssu2dMVw%2C%2C&cc=CiBiMDM1ZGM2MTA5MTdiOTdjYjk1NjU2MDA2YTAwM2FiNxDnAYB95u0G&resale_goods=resale_new&hid=91028&nid=26912890&show-uid=17819724756618470289406001&showUid=17819724756618470289406001&from-show-uid=17819724756618470289406001&cpa=1&from=search"
+    },
+    {
+      "id": "case_5",
+      "model": "NZXT H5 Flow",
+      "brand": "NZXT",
+      "form_factor": "ATX",
+      "max_gpu_length": 365,
+      "max_cpu_cooler_height": 165,
+      "price": 8000,
+      "link": "https://market.yandex.ru/card/korpus-geometric-future-model-5-light-blue-1am5wkpb00100/4660494000?do-waremd5=gFcFYpl0LfGolgb2-1r1dg&sponsored=1&cpc=reYoQ_jEyI_2jYQL6D15nY9QI6xcQ-ihBEXNukHSkUxa75IDU9oBlsyoQnGPGzxuYXuo9q5xlzQOA4N4prDvM0gHvj5SKCgtXW29bE3bdfiHda-hQl4Ne0v2gpysI3-7R7j2bZW7YYhSXWos1yy0xyIKF4haGm3yVtkSlHJwFaRMymSOABs8djyWJoEMiCgpHf3hLAW__FTJcwAA6IiWtGs3IOVRwKFwCy4vDJzA9SSqQK3GxiitHZx_tAi2uz2Isg3UnFS-caM_HbUKo8yLsi0_C79k2ZFdmVwSOslGXnGzd0xk5MEIepG_VwlgmhUyS_8Cth619VBjfzn4ouNpCZQpqTJJ5EhU7ILeEYzliM_cfy8VsJ5xfkIMl00kGOiQWqS5JT7COeToZ2ImZjv_JY814U101BwZjhkmxSdNqnsattxROFpfyPA_iY7a6C4tg6MlPZ8fbv72xm9SPpoUliWWJY7_bg0dnSjiuDl9uMyCJFjQ1y492573RkpA_DpXUMv9HVjVJHjV6DSdlnYXUIMNluJQG_dce-pPAESm69kXgZyzQohDvieLDqrWrrNN-RMqMiGhOT-uB5UkWVYwlFYXJD1mFr7duCqP6iDLoBE%2C&cc=CiAwOGJiNzc1ODI0NTU5MzE1MDFjZGQxN2MxMjY1M2FjOBCAAoB95u0G&resale_goods=resale_new&hid=91028&nid=26912890&show-uid=17819725131133336951806001&showUid=17819725131133336951806001&from-show-uid=17819725131133336951806001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "case_6",
+      "model": "ASUS Prime AP201",
+      "brand": "ASUS",
+      "form_factor": "Micro-ATX",
+      "max_gpu_length": 338,
+      "max_cpu_cooler_height": 170,
+      "price": 10000,
+      "link": "https://market.yandex.ru/card/korpus-asus-prime-ap201-tempered-glass-black-90dc00g0-b39010/102384551467?do-waremd5=w91yGf11VxL_gQSo38nsZA&sponsored=1&cpc=VHdrpbZdHyUai8fjmwSEUB_08gUckhGhO8hzhMJdmaj-dnDZ_QwmAtFDDWCNIeE_J7WuCSBn_wk0ccHCwFFY6q0KX1Wef-VUGUPDxFTvcmjyDWDVoJDlwP8dcvA0ixCWgigKc5Q4peLTo9dQUMyyvfQ4lBJ5lpF-2iJT8Um74qMUlxUubtKWvXIQYC6VcewE8tjFMPwsB7GIEuqft37hGlPn7Kc1wX56xMvuCuZEs7kPzmHC7ugc26Z3-Rid418U99cEozAqgMC9rxR1lCB2KcL_cYZmHSxwGVPqgI7eaE82P1uoA1wd-6X6hNlMUP1xf0GLxGg9p8D2vsWwG4zMQp3Y8Zt8T2EAzab3krwU6QYdB-_HfAivYXirilervCymPGQt37ahk8roQZCXF086ZpSfWGExT6_j6NdQly9nQeiufX8eyV1bf_XLCRSl6_p8lZBpp1Q2WHIdAYJ38pBJ5auaZpt_LFBIdXewgNH9fmUu05NcSwhDXzTuo9Hvp6t6mzyvnsEumJyND6D6lZpa43XFUI8wjrLIbkPKa9_zJzG8GsD-O7t4w8ciNXt_4zx_siL38CD_MgtfTONsmt_jmhxl49pbRmXkq5hrN9M12ik%2C&cc=CiBiNTQ0NTdjYTk5ZDZiZjI2OGM3MjI0NWIzYWI1NWIzZRDmAYB95u0G&resale_goods=resale_new&hid=91028&nid=26912890&show-uid=17819725254319783042506001&showUid=17819725254319783042506001&from-show-uid=17819725254319783042506001&cpa=1&from=premiumOffers"
+    }
+  ],
+  "cooling": [
+    {
+      "id": "cool_1",
+      "model": "NZXT Kraken X73 360mm",
+      "brand": "NZXT",
+      "type": "Liquid",
+      "size": 360,
+      "socket": ["LGA1700", "AM5"],
+      "price": 15000,
+      "link": "https://market.yandex.ru/card/ustroystvo-okhlazhdeniyakuler-id-cooling-se-214-xt-basic-soc-am5am4115112001700-4-pin-16-27db-al/103327956075?do-waremd5=JQ-s1uMYm1YlqH-HmM-VSA&sponsored=1&cpc=8MKxHyFfE_h-MPMJnPvF4dml2qYCR9grjMwQm12xB0Whq5BGMfyYCKwvWKefZdFTmCKM7JjTamlSSnr6Ix7pvp-HUprf91tcbE4zauLDHnVhzuMfsApmzTTwH9S6IbpuCgoNIs-Q7RmpKZI6WP9kaQFmDnpD0KCgufYitu6Tpt-wHXHnfLSqP9ATWXMDBp0hII3CI7wYVWyX2d-DFnjS0XK3xuHIwYaBk4Cs26zh2qusLKpx4-mNRvxiWQNyytDxpRlNoMMEp6aS5U4kbuBO9WpGPvjYowkU2NFBkw5uqrkv8osuakwd5sSxeSUdjCCX858xdQu6b82ha2qILNJ0hvVsTwlS9oTyKM6O-dl6j8zDtNQP33w5DPX_LMb_JHyb12bmP4QM8lbqMpJQgB3P_cVTFDPw3J1hGf5wBuZ_zbQBH95p1uaLtaIbQ6IR2GiTUP6cCJJFRy4ynOxxRPLy-3aXWNBr3co4A9lacWyLgfdy0yC767Rz03W-tyz6mG6x&cc=CiAyMzU2YjgxZWMwNGVkOTlmYzYzYmYxZDFmMTMxMTliMxDnAYB95u0G&resale_goods=resale_new&hid=818965&nid=26912910&show-uid=17819725475637182337406001&showUid=17819725475637182337406001&from-show-uid=17819725475637182337406001&cpa=1&from=search"
+    },
+    {
+      "id": "cool_2",
+      "model": "Corsair iCUE H150i 360mm",
+      "brand": "Corsair",
+      "type": "Liquid",
+      "size": 360,
+      "socket": ["LGA1700", "AM5"],
+      "price": 16000,
+      "link": "https://market.yandex.ru/card/sistema-okhlazhdeniya-zhidkostnaya-corsair-icue-h150i-elite-capellix-xt/4813843477?do-waremd5=mUp_P0u571RycyKnArF28A&cpc=mn0N4hyebIhPSO0SA_PW0Adc8hqp-sumU-EXlMcibAAWnYR278SaZImy-RK-yWrlt0rJD21MhzqMZ9x9f_eOsVNcimuXuNsTIFIzpDcPXtjw4IHdrE-NLIXIQgZbeunXCGQb_-T19l8ObejbRq_Vu8ubPoApiikjdAWzlYRp_kL2pUsJyWFYMCUtIDLiFihXchY5qd1RsWhjn-1-ozNZ8R3nd3B-NLy-W0X_-sAE-bOM0BEF4TfMms4cxAEJNA9PLenOE3y-ZzhOoprz945xMT4UaOdDlvHvH4KjhB4xQ9Z-94KOu-gOdcdK70N-oET5QXcPbeekkGm2UlCiq264rKjobKrSL48W0hTvuHpMovpkAND7fvcDy1MIjctcKN5fXm_hfuNgczVMBrhbth2hhQ1q3jGhKx_hDJZh0m9ZEhQRCYWy-qzXO74AonEWzey0TPyokmpdL2CcuFTtTJAgNkAcGDLqQZEpvrRm9z5qUu9hxT5B9wZnig%2C%2C&cc=CiA1MTQzODg1ZDA4Y2VmNjAzY2I0MTExNzMxNmI5YThkYxAHgH3m7QY%2C&resale_goods=resale_new&hid=818965&nid=26912910&show-uid=17819725838624303308106001&showUid=17819725838624303308106001&from-show-uid=17819725838624303308106001&cpa=1&from=search"
+    },
+    {
+      "id": "cool_3",
+      "model": "DeepCool LS720 360mm",
+      "brand": "DeepCool",
+      "type": "Liquid",
+      "size": 360,
+      "socket": ["LGA1700", "AM5", "AM4"],
+      "price": 10000,
+      "link": "https://market.yandex.ru/card/zhidkostnaya-sistema-okhlazhdeniya-deepcool-ls720-r-ls720-bkamnt-g-1-360mm-intel-lga20662011-v3201117001200115111501155-amd-strx4str4am5am4-727477-uts-3-5/5700360255?do-waremd5=SoxZKvxsujA6UhghDLzW-w&cpc=wQpC7ddTOic0e27eDWhSCaR8xpP85DSLoLyqfIMkh2_EZ3X2a485T9rAL2fOOBOG7WsLeoo573MqEyJ3Umb2fGk720RwAAyNmE7FBG7CcjQ-DY0MJ4vdI4XdVe63SHWeAcOW9OVDGBwInEGdj3HaamUPzb-LGzzsOz4PEWcpxgNCHrEk8tuFJIsRT-bkQPu80I5zQT4eoiEl9vbo2uZTi5WPGP01NLk0z5K_tHWslWe01vKrRE3BwmC0sllAIAD5Hrn-_DWBD_aUVjYqNboLqlKLVGVkI0OqRlnSh313rwiIilZBz0HAyt9TZdi6K5PRqswHMU7AMUvn7u2kXC-ZA7GXTQ3P8-uncNBVtZ6WpuB_ltTdO43hwCsakV-qI_Uxz7PiNs_HmWl_q1QiEX-xUUoiraUdzTQF_L2ro1x19lE7i9tIZrAsyPsp4k-i-pP8vrP9XfXRnNk%2C&cc=CiBiMTk1MWUwOGIwNzA4MWVlZTI3N2I5NTMwN2Q0NmI2ZRAHgH3m7QY%2C&resale_goods=resale_resale&resale_goods_condition=%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9%20%D0%B2%D0%B8%D0%B4&hid=818965&nid=26912910&show-uid=17819726166428751726706001&showUid=17819726166428751726706001&from-show-uid=17819726166428751726706001&cpa=1&from=search"
+    },
+    {
+      "id": "cool_4",
+      "model": "be quiet! Dark Rock Pro 4",
+      "brand": "be quiet!",
+      "type": "Air",
+      "size": null,
+      "socket": ["LGA1700", "AM5", "AM4"],
+      "price": 9000,
+      "link": "https://market.yandex.ru/card/ustroystvo-okhlazhdeniyakuler-id-cooling-se-226-xt-120mm-ret/103199739714?do-waremd5=MKMklqnJgi3xWzxsPGCKZA&sponsored=1&cpc=XqhesS-S957NuKyguyxDYoOsGUJ8OSI4U2-LJDDengGzVMjfCqM4N0PQDJbv8PNdajL0v_Crc_rn5dfvBAZv25ws-4F8oqayyRsOEqv26sKBn39KNnW8Jr5he9xO-YeMWnmcIDuW27p8pbMGTE52oksgeZk3h3zA0X_MTbxa_N4ipjabHEVxBa4fhbuxx6Am3KNhFO_xFk01U9UUG-mjWvuW0mMP0--euAQ2G2XNN7_Xt91lckue2tMBlHncaVATCJwfqoRLRt_RS3vQe_rjdJ3AnepVMPwl2nn9GuW1yIYorRNOp_Nw4gRFstjK8EDhrchYY8Ejiyp4JFHIxkJJ0wiT-Zfdl_sVcu4b3JEcV3dnxU5gQaIk1Fr-THXWLB4q2w-8UC6lTRj9gF1JTH5U003hBZdPdrcTTEl65zcetnBgIn3M2rifqW-t1h6GvDzfTD3zBg6VAGPm24TiEWW4IeEzVIIL5sDiEVYWck--SqI6kQIp6IVpZBVYyuCXfSOKCyKYCJiCmR1lAAehB2GkZHCidjMWWrzG&cc=CiA2YmRkZjdhYzJkNjNhZGNhNWI5NDMwMDJjMTE1NGVmMhDnAYB95u0G&resale_goods=resale_new&hid=818965&nid=26912910&show-uid=17819726372534303300306002&showUid=17819726372534303300306002&from-show-uid=17819726372534303300306002&cpa=1&cpm-adv=1&from=search"
+    },
+    {
+      "id": "cool_5",
+      "model": "Noctua NH-D15",
+      "brand": "Noctua",
+      "type": "Air",
+      "size": null,
+      "socket": ["LGA1700", "AM5", "AM4"],
+      "price": 12000,
+      "link": "https://market.yandex.ru/card/kuler-dlya-protsessora-noctua-nh-d15-chromaxblack-am5-lga1700/103200948831?do-waremd5=kg7PkGqf01FitA888v5pbQ&sponsored=1&cpc=-9B9t6y7PYQqMFSjOVm8wiuZ8HCV5G_kZ8j3A75UkoenXv-cUVah9O3zS9Wa5X_q9ixSL5wjRvVn9JW8n41ax9s4sIyDU42qijWeLFK0yIaEbjJBIuYfdJ_EsyBBHEWl_9_ZBQUJ-FW8KOimhv1r9s0od5DqebjqtsAvRba207IvZhwKQS_9zWj6-sujLzwwCZdQoeWK2Wwo2PB1khcfl9GA2fGV5Kujbk9L-tW2I3QarQCzqklRcDLaGySUQBSHP5JGsP45NOU7cIE87-Uk7XMRjh5S9cLKwTIHVztDROUfJkVhIDS7PUiuJuee0_9iDnaqwoUwfpB8CbhgGjK2h-izAQerHNnZdJsznN5Y9POSTsJ38L5KVGhJNnkW6z6lka731ax54GANrFlR8kWJYa3kyb-CAn7KELCtNWXDicfxr5UnCIsyMxblxuQNRDuneqhtnR379SjBY1K2GEW_fkopcbuc1K0uoLd0x4heRvGhMi8CVjAJSD066bC6dAT0G6WjGC8gD9-crDsUDjTB6WYn4DxPoe-GSppp-XfXRJVBU7plyuKIxlJCNa4Oj60TMdVdH6z2mtpOqZv_KHQ6oWwqzxs89PokYACF-rzQXPOWQJhw_yl-GA%2C%2C&cc=CiAxNDZiMTM1YzIxMjZjYTJlNTRkNjc5MDcwYTI5ZDVlNBCAAoB95u0G&resale_goods=resale_new&hid=818965&nid=26912910&show-uid=17819726621177219679406001&showUid=17819726621177219679406001&from-show-uid=17819726621177219679406001&cpa=1&cpm-adv=1&from=premiumOffers"
+    },
+    {
+      "id": "cool_6",
+      "model": "DeepCool AK620",
+      "brand": "DeepCool",
+      "type": "Air",
+      "size": null,
+      "socket": ["LGA1700", "AM5", "AM4"],
+      "price": 6000,
+      "link": "https://market.yandex.ru/card/ustroystvo-okhlazhdeniyakuler-deepcool-ak620-120mm-ret/103200007107?do-waremd5=RPCeD97-b5sFQhaYsf77Gg&sponsored=1&cpc=XwcsKCR9W2elBh3FGn5-3CGJAXZt1HNQjVdmAT6Mn38A4sTs5hwlscYJpCLqs-0r6-Yk1GMrk2lKXj1uOEaAdrLCtkGNWph4hyERkP3E5Hlf_-tAHP_gciSzmQjmWNF1bzFz81ejLlNWzdFtE5-OmRUpQhoUB6a3FyOvwC-C-brW5d5fNgKwrrmCs8l-GjRnOo4noagadizPPfHqvBEpNdqZWKEpqqIA-ruRuYaCtgTK04CRrh4dXDrnO_0NoDRlbUxzq6Qpb8U-bRbXbigcCcV8oYMoHCFWWYlX748DmQxN6gKf5UmNs13C4Jsj8OyijeiDQf2qcaI0eYo-RGpfKp9Yw4nBcslq6T5YDd4RS5CcKelY4q8Ym7aLTEPVnL5RfHmyWKoEUHLXlrREcKB_ApseGPL8V-4GAnwKqHPpSv9n3EPtbCCeu6Rl6BV89XcoTRk0fULpJvz3IjekIe2l2_q4hP7OJnrnyrGqWo6CPPmtEGrwXcS_SwokoC08BzexJHtY0GNJPfnyDWWpZFCIHIyeWqddFkaCOPuaswNvyfY%2C&cc=CiBkOTViY2U5NDU5NzdmYWQzMGQ2ZWQ2YjlhZGRjODA5ORDmAYB95u0G&resale_goods=resale_new&hid=818965&nid=26912910&show-uid=17819726808529299012706003&showUid=17819726808529299012706003&from-show-uid=17819726808529299012706003&cpa=1&from=premiumOffers"
+    },
+    {
+      "id": "cool_7",
+      "model": "Cooler Master Hyper 212",
+      "brand": "Cooler Master",
+      "type": "Air",
+      "size": null,
+      "socket": ["LGA1700", "AM5", "AM4"],
+      "price": 4000,
+      "link": "https://market.yandex.ru/card/kuler-dlya-protsessora-cooler-master-hyper-212-rgb-rgb-black-edition/103468930644?do-waremd5=duPaTw20pa3rTNLQnLtkCw&cpc=Ycyg9VkQZGRoGbQWYAr9pz-HiO-MZ-cov-l-bKyhfrivSL5nfuSGyK1mwEob1n5WJucgVH4_JCfPtPm9ujpFRsOnwJSprM-btmqLiw9GKAFevYXfb6s7ttpwOBVvjt_b6Z197nNkC8zRY41HTEkyaPlXqEh01Vh1A7YFU1i0T1D2RlH58jQ9JY9ARRM7x79tqU0xYqxpZz2jE4HZBtFxG8xrWnCsu_KKiAYtuX13ks5-_DNQlnbdIGJ9DxCGpNVkgVXfYfaXZY4xh6_EPcouFpoW4kGirX2-iRMfqeX_oYmsIM5TsUmvoTn1t-JFivQgzdxTfvp4X9pxunTy-F_DGGxiFp5lMGIlJq4u1NUewEU2A3ME7XN7dX5T9NzETHFbaasoJx8V2IrJES71mcKcBXNECVULyLZyFU3w56gL0G5RtYpEJpVe2UBKkeWmdmTUF7pjuj3HY38%2C&cc=CiAyNzhmZGM2ZDAxZmU4NzlhZjFkMjkzOTU2ZDBhMjhkZhAHgH3m7QY%2C&resale_goods=resale_new&hid=818965&nid=26912910&show-uid=17819727061073058970306003&showUid=17819727061073058970306003&from-show-uid=17819727061073058970306003&cpa=1&from=search"
+    }
+  ]
+}
